@@ -1,0 +1,2 @@
+# pythonAiPratice
+Python Ai pratice

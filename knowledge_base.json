@@ -1,143 +1,143 @@
 {
   "greetings": {
     "keywords": ["hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening"],
-    "response": "Hello! How can I help you today?"
+    "response": "Hello! It's wonderful to hear from you. Greetings are an important part of human communication, helping us establish connections and show respect. Different cultures have various greeting customs, from handshakes to bows to cheek kisses. I'm here to assist you with any questions or topics you'd like to explore. How can I help you today?"
   },
   "how_are_you": {
     "keywords": ["how are you", "how's it going", "how do you do", "what's up"],
-    "response": "I'm doing great, thank you for asking! I'm here to help you with any questions."
+    "response": "I'm doing great, thank you for asking! As an AI, I don't have feelings like humans do, but I'm functioning perfectly and ready to assist. Asking 'how are you' is a common social pleasantry that shows care and consideration for others. It's a great conversation starter that helps build rapport. I'm here to help you with any questions or topics you'd like to explore. What would you like to know more about?"
   },
   "name": {
     "keywords": ["what is your name", "who are you", "your name"],
-    "response": "I'm a chatbot created to help answer your questions. You can call me Assistant!"
+    "response": "I'm a chatbot created to help answer your questions and provide information. You can call me Assistant! I'm an artificial intelligence designed to understand natural language and respond helpfully. Unlike humans, I don't have a personal identity or feelings, but I'm here to assist you to the best of my abilities. I can help with a wide range of topics from programming to general knowledge. Feel free to ask me anything!"
   },
   "purpose": {
     "keywords": ["what do you do", "what can you do", "your purpose", "help me with"],
-    "response": "I can help answer questions, provide information, and assist with various topics. Feel free to ask me anything!"
+    "response": "I can help answer questions, provide information, and assist with various topics. My purpose is to be a helpful assistant that can explain concepts, solve problems, and provide educational content. I can help with programming questions, explain how things work, provide definitions, and even help with basic math calculations. I'm designed to be friendly, informative, and easy to interact with. Feel free to ask me anything - I'm here to help you learn and explore new topics!"
   },
   "python": {
     "keywords": ["python", "python programming", "learn python"],
-    "response": "Python is a popular programming language known for its simplicity and readability. It's great for web development, data science, automation, and more. Would you like to learn more about Python?"
+    "response": "Python is a popular programming language known for its simplicity and readability. Created by Guido van Rossum in 1991, it emphasizes code readability with its use of significant indentation. Python is versatile and used for web development (with frameworks like Django and Flask), data science (with libraries like pandas and numpy), automation, artificial intelligence, and more. It has a large standard library and a vibrant community. Python's syntax is designed to be intuitive, making it an excellent choice for beginners while remaining powerful enough for experts. Would you like to learn more about Python?"
   },
   "flask": {
     "keywords": ["flask", "flask framework", "what is flask"],
-    "response": "Flask is a lightweight Python web framework that makes it easy to build web applications. It's known for its simplicity and flexibility. Great for beginners!"
+    "response": "Flask is a lightweight Python web framework that makes it easy to build web applications. Created by Armin Ronacher, it's known as a 'microframework' because it doesn't require particular tools or libraries. Flask provides the core functionality needed for web development while allowing developers to choose their own database and other components. It's perfect for building small to medium web applications and APIs. Flask's simplicity makes it great for beginners, while its flexibility makes it suitable for experienced developers. It includes built-in development server and debugger, and supports extensions for adding functionality like database integration and authentication."
   },
   "html": {
     "keywords": ["html", "html5", "hyper text markup language"],
-    "response": "HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure and content of web pages using elements and tags."
+    "response": "HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure and content of web pages using elements and tags. HTML was created by Tim Berners-Lee in 1991 and has evolved through versions, with HTML5 being the current standard. HTML uses tags like <h1> for headings, <p> for paragraphs, and <a> for links to structure content. It works with CSS for styling and JavaScript for interactivity. HTML5 introduced new semantic elements like <header>, <footer>, and <article> that make pages more accessible and meaningful. Every website you visit uses HTML as its foundation."
   },
   "javascript": {
     "keywords": ["javascript", "js", "java script"],
-    "response": "JavaScript is a programming language that runs in web browsers. It's used to make web pages interactive and dynamic. It's essential for modern web development!"
+    "response": "JavaScript is a programming language that runs in web browsers. Created by Brendan Eich in 1995, it's used to make web pages interactive and dynamic. JavaScript can manipulate HTML elements, handle user events, create animations, validate forms, and communicate with servers. Despite the similar name, JavaScript is unrelated to Java. It's now also used on servers with Node.js and in mobile app development. JavaScript is essential for modern web development - without it, websites would be static and unresponsive. It's one of the most popular programming languages in the world."
   },
   "css": {
     "keywords": ["css", "cascading style sheets", "styling"],
-    "response": "CSS (Cascading Style Sheets) is used to style and layout web pages. It controls colors, fonts, spacing, and overall visual appearance of HTML elements."
+    "response": "CSS (Cascading Style Sheets) is used to style and layout web pages. It controls colors, fonts, spacing, and overall visual appearance of HTML elements. CSS was developed to separate content (HTML) from presentation (styling), making websites easier to maintain. CSS uses selectors to target HTML elements and applies styles like color, size, and positioning. Modern CSS includes features like Flexbox and Grid for complex layouts, animations, and responsive design for different screen sizes. CSS can be written inline, in style blocks, or in external stylesheets. The 'cascading' in CSS refers to how style precedence is determined."
   },
   "api": {
     "keywords": ["api", "application programming interface", "what is an api"],
-    "response": "An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other. It's like a messenger that takes requests and returns responses."
+    "response": "An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other. It's like a messenger that takes requests and returns responses. APIs define the methods and data formats that applications can use to request and exchange information. Common types include REST APIs, which use HTTP requests, and SOAP APIs. APIs are essential for modern software development, enabling services like weather apps, social media integration, and payment processing. They allow developers to leverage existing services without building everything from scratch. APIs power much of the internet's interconnected services."
   },
   "json": {
     "keywords": ["json", "javascript object notation"],
-    "response": "JSON (JavaScript Object Notation) is a lightweight data format that's easy for humans to read and write, and easy for machines to parse and generate. It's commonly used for data exchange between servers and web applications."
+    "response": "JSON (JavaScript Object Notation) is a lightweight data format that's easy for humans to read and write, and easy for machines to parse and generate. It's commonly used for data exchange between servers and web applications. JSON uses a simple structure of key-value pairs and arrays, making it more readable than XML. Despite the name, JSON is language-independent and works with most programming languages. It's the standard format for REST APIs and configuration files. JSON supports data types like strings, numbers, booleans, arrays, and objects. Its simplicity and efficiency have made it the dominant data format for web services."
   },
   "database": {
     "keywords": ["database", "db", "data storage"],
-    "response": "A database is an organized collection of data, stored and accessed electronically. Common types include SQL databases (like MySQL, PostgreSQL) and NoSQL databases (like MongoDB)."
+    "response": "A database is an organized collection of data, stored and accessed electronically. Common types include SQL databases (like MySQL, PostgreSQL) and NoSQL databases (like MongoDB). SQL databases use structured tables with rows and columns, while NoSQL databases offer more flexibility with document, key-value, or graph structures. Databases are essential for applications to store user data, product information, and more. Database management systems (DBMS) like MySQL or MongoDB provide tools to create, read, update, and delete data. Proper database design ensures data integrity and efficient queries. Databases power everything from small apps to large enterprise systems."
   },
   "frontend": {
     "keywords": ["frontend", "front-end", "client side"],
-    "response": "Frontend development refers to the part of web development that users see and interact with. It involves HTML, CSS, and JavaScript to create the user interface."
+    "response": "Frontend development refers to the part of web development that users see and interact with. It involves HTML, CSS, and JavaScript to create the user interface. Frontend developers focus on user experience, responsive design for different devices, and performance. Modern frontend development often uses frameworks like React, Vue, or Angular to build complex interactive applications. Frontend code runs in the browser and communicates with backend servers via APIs. Skills include design principles, accessibility, and optimization. Frontend development bridges the gap between design and functionality, creating the visual and interactive experience users enjoy."
   },
   "backend": {
     "keywords": ["backend", "back-end", "server side"],
-    "response": "Backend development refers to the server-side of web development. It involves handling databases, server logic, APIs, and the behind-the-scenes functionality that powers websites."
+    "response": "Backend development refers to the server-side of web development. It involves handling databases, server logic, APIs, and the behind-the-scenes functionality that powers websites. Backend developers work with languages like Python, Java, Node.js, or PHP and frameworks like Django, Express, or Spring. They handle data storage, user authentication, business logic, and server security. Backend code processes requests from the frontend and returns appropriate responses. It's responsible for the performance, scalability, and reliability of applications. Backend development is crucial for any dynamic website or application."
   },
   "web_development": {
     "keywords": ["web development", "web dev", "website development"],
-    "response": "Web development is the work involved in developing a website for the Internet. It includes web design, web content development, client-side scripting, server-side scripting, and network security."
+    "response": "Web development is the work involved in developing a website for the Internet. It includes web design, web content development, client-side scripting, server-side scripting, and network security. Web development can be divided into frontend (what users see) and backend (server-side logic). Full-stack developers handle both. Modern web development uses numerous tools and frameworks, follows best practices for performance and accessibility, and must work across different browsers and devices. It's a constantly evolving field that requires continuous learning. Web development powers everything from simple blogs to complex web applications."
   },
   "bye": {
     "keywords": ["bye", "goodbye", "see you", "farewell", "exit"],
-    "response": "Goodbye! Have a great day! Feel free to come back if you have more questions."
+    "response": "Goodbye! It was great chatting with you. Farewells are an important part of social interaction, signaling the end of a conversation while maintaining positive relationships. Different cultures have various farewell customs and phrases. I hope our conversation was helpful and informative. Feel free to come back anytime if you have more questions or want to explore new topics. Have a wonderful day, and I look forward to helping you again in the future!"
   },
   "thanks": {
     "keywords": ["thank", "thanks", "appreciate"],
-    "response": "You're welcome! I'm happy to help. Let me know if you have any other questions!"
+    "response": "You're welcome! I'm happy to help and glad I could assist you. Expressing gratitude is a wonderful social practice that strengthens relationships and shows appreciation. It's my purpose to provide helpful information and answer your questions to the best of my ability. If you have any other questions or need further clarification on any topic, please don't hesitate to ask. I'm always here to help you learn and explore new subjects. Thank you for using this chatbot!"
   },
   "english": {
     "keywords": ["english", "english language", "speak english"],
-    "response": "English is a West Germanic language that originated in England. It's the most widely spoken language in the world and is the official language of many countries."
+    "response": "English is a West Germanic language that originated in England. It's the most widely spoken language in the world and is the official language of many countries. English evolved from Old English through Middle English to Modern English, influenced by Latin, French, and other languages. It's the primary language of international business, science, technology, and aviation. English uses the Latin alphabet with 26 letters and has a relatively simple grammar compared to many other languages. It's the official language of 67 countries and is spoken by over 1.5 billion people worldwide as either a first or second language."
   },
   "spanish": {
     "keywords": ["spanish", "español", "speak spanish"],
-    "response": "Spanish is a Romance language that originated in the Iberian Peninsula. It's the second most spoken native language in the world, with over 500 million speakers."
+    "response": "Spanish is a Romance language that originated in the Iberian Peninsula. It's the second most spoken native language in the world, with over 500 million speakers. Spanish spread globally through Spanish colonization and is now the official language of 21 countries, primarily in Latin America and Spain. It uses the Latin alphabet with the addition of ñ. Spanish is known for its phonetic spelling - words are pronounced exactly as they're written. It has rich literature, music, and film traditions. Learning Spanish opens doors to many cultures across the Americas and Europe."
   },
   "french": {
     "keywords": ["french", "français", "speak french"],
-    "response": "French is a Romance language spoken by about 300 million people worldwide. It's known as the language of diplomacy, culture, and romance."
+    "response": "French is a Romance language spoken by about 300 million people worldwide. It's known as the language of diplomacy, culture, and romance. French is an official language in 29 countries and is one of the six official languages of the United Nations. It influenced English significantly after the Norman Conquest. French is famous for its literature, philosophy, and cuisine. It uses the Latin alphabet with accents like é, è, and ç. French pronunciation can be challenging due to nasal sounds and silent letters, but its grammar is systematic and logical."
   },
   "german": {
     "keywords": ["german", "deutsch", "speak german"],
-    "response": "German is a West Germanic language spoken mainly in Central Europe. It's the most widely spoken native language in the European Union."
+    "response": "German is a West Germanic language spoken mainly in Central Europe. It's the most widely spoken native language in the European Union. German is the official language of Germany, Austria, and Liechtenstein, and a co-official language in Switzerland, Belgium, and Luxembourg. It uses the Latin alphabet with the addition of ä, ö, ü, and ß. German is known for its compound words and complex grammar with four cases. It has a rich literary tradition with famous writers like Goethe and Kafka. German is important in philosophy, science, and engineering."
   },
   "chinese": {
     "keywords": ["chinese", "mandarin", "cantonese", "speak chinese"],
-    "response": "Chinese is a group of language varieties that form the Sinitic branch of the Sino-Tibetan languages. Mandarin Chinese is the most spoken language in the world by native speakers."
+    "response": "Chinese is a group of language varieties that form the Sinitic branch of the Sino-Tibetan languages. Mandarin Chinese is the most spoken language in the world by native speakers, with over 1 billion speakers. Chinese uses characters (logograms) rather than an alphabet, with thousands of characters needed for literacy. It's a tonal language, meaning pitch changes word meaning. Chinese has a continuous written tradition spanning over 3,000 years. It's the official language of China, Taiwan, and Singapore. Learning Chinese opens access to one of the world's oldest and richest cultures."
   },
   "japanese": {
     "keywords": ["japanese", "nihongo", "speak japanese"],
-    "response": "Japanese is an East Asian language spoken by about 128 million people, primarily in Japan. It uses a writing system combining three scripts: hiragana, katakana, and kanji."
+    "response": "Japanese is an East Asian language spoken by about 128 million people, primarily in Japan. It uses a writing system combining three scripts: hiragana for grammatical particles, katakana for foreign words, and kanji (Chinese characters) for content words. Japanese has a complex honorific system reflecting social hierarchy. It's an agglutinative language, meaning words are built by adding suffixes. Japanese culture has influenced the world through anime, manga, technology, and cuisine. The language is known for its politeness levels and contextual nuances."
   },
   "arabic": {
     "keywords": ["arabic", "speak arabic", "arabic language"],
-    "response": "Arabic is a Semitic language spoken by over 400 million people across the Arab world. It's written from right to left and is the language of the Quran."
+    "response": "Arabic is a Semitic language spoken by over 400 million people across the Arab world. It's written from right to left and is the language of the Quran, making it sacred in Islam. Arabic is the official language of 22 countries and one of the six UN official languages. It uses a beautiful cursive script with 28 letters. Arabic has influenced many languages, especially in mathematics and science. It has a rich poetic tradition and complex root-based word formation. Modern Standard Arabic is used in formal contexts, while dialects vary by region."
   },
   "russian": {
     "keywords": ["russian", "speak russian", "russian language"],
-    "response": "Russian is an East Slavic language spoken by about 258 million people worldwide. It uses the Cyrillic alphabet and is one of the six official languages of the United Nations."
+    "response": "Russian is an East Slavic language spoken by about 258 million people worldwide. It uses the Cyrillic alphabet with 33 letters and is one of the six official languages of the United Nations. Russian is the official language of Russia, Belarus, Kazakhstan, and Kyrgyzstan. It has a complex grammatical system with six cases and three genders. Russian literature is world-renowned, with authors like Tolstoy, Dostoevsky, and Pushkin. The language played a major role in space exploration and science. Russian uses the Cyrillic script, which is also used by several other Slavic languages."
   },
   "italian": {
     "keywords": ["italian", "italiano", "speak italian"],
-    "response": "Italian is a Romance language spoken by about 85 million people. It's known for its musicality and is the language of art, music, and cuisine."
+    "response": "Italian is a Romance language spoken by about 85 million people. It's the official language of Italy, Switzerland, San Marino, and Vatican City. Italian evolved from Latin and is considered the closest living language to Latin. It uses the Latin alphabet with accents. Italian is famous for its musicality and is the language of opera, classical music, and Renaissance art. Italian cuisine and culture have influenced the world. The language has relatively simple pronunciation - words are pronounced as written. Italian has many dialects, but standard Italian is based on the Tuscan dialect of Florence."
   },
   "portuguese": {
     "keywords": ["portuguese", "speak portuguese", "portuguese language"],
-    "response": "Portuguese is a Romance language spoken by about 260 million people worldwide. It's the official language of Portugal, Brazil, and several other countries."
+    "response": "Portuguese is a Romance language spoken by about 260 million people worldwide. It's the official language of Portugal, Brazil, and several other countries. Portuguese spread globally during the Age of Exploration and is now the most spoken language in South America. Brazilian and European Portuguese differ in pronunciation and some vocabulary. Portuguese uses the Latin alphabet with accents like á, â, ã, and ç. It's known for its melodic sound and rich literary tradition. Portuguese is important in international business, especially with Brazil's growing economy."
   },
   "hindi": {
     "keywords": ["hindi", "speak hindi", "hindi language"],
-    "response": "Hindi is an Indo-Aryan language spoken primarily in India. It's one of the official languages of India and is spoken by over 600 million people."
+    "response": "Hindi is an Indo-Aryan language spoken primarily in India. It's one of the official languages of India and is spoken by over 600 million people. Hindi uses the Devanagari script, which is written from left to right. It shares roots with Sanskrit and has influenced many other Indian languages. Hindi is known for its rich film industry (Bollywood) and literature. It uses postpositions instead of prepositions and has a complex verb system. Hindi and Urdu are very similar in spoken form but use different scripts. Learning Hindi provides access to Indian culture and one of the world's largest film industries."
   },
   "addition": {
     "keywords": ["addition", "adding", "plus", "sum"],
-    "response": "Addition is one of the four basic operations of arithmetic. It combines two or more numbers to get a total or sum. For example, 2 + 3 = 5."
+    "response": "Addition is one of the four basic operations of arithmetic. It combines two or more numbers to get a total or sum. For example, 2 + 3 = 5. Addition is commutative, meaning the order doesn't matter (3 + 2 = 5), and associative, meaning grouping doesn't matter. It's the foundation of more complex math. We use addition daily for counting money, measuring, and solving problems. The plus sign (+) represents addition. Addition has been used since ancient times and is fundamental to mathematics."
   },
   "subtraction": {
     "keywords": ["subtraction", "subtracting", "minus", "difference"],
-    "response": "Subtraction is taking one number away from another. It's the opposite of addition. For example, 5 - 3 = 2."
+    "response": "Subtraction is taking one number away from another. It's the opposite of addition. For example, 5 - 3 = 2. Subtraction is not commutative - order matters (5 - 3 ≠ 3 - 5). The minus sign (-) represents subtraction. We use subtraction to find differences, calculate change, and solve problems. Subtraction can be thought of as finding the missing addend. It's essential for everyday math like budgeting and measuring. Subtraction has been used since ancient civilizations for trade and commerce."
   },
   "multiplication": {
     "keywords": ["multiplication", "multiplying", "times", "product"],
-    "response": "Multiplication is repeated addition of the same number. For example, 3 × 4 means adding 3 four times: 3 + 3 + 3 + 3 = 12."
+    "response": "Multiplication is repeated addition of the same number. For example, 3 × 4 means adding 3 four times: 3 + 3 + 3 + 3 = 12. Multiplication is commutative (3 × 4 = 4 × 3) and associative. The times sign (×) represents multiplication. We use multiplication for calculating areas, scaling quantities, and solving problems. Multiplication tables help us memorize basic facts. It's more efficient than repeated addition for larger numbers. Multiplication is fundamental to algebra and higher mathematics."
   },
   "division": {
     "keywords": ["division", "dividing", "divided by", "quotient"],
-    "response": "Division is splitting a number into equal parts. It's the opposite of multiplication. For example, 12 ÷ 4 = 3, meaning 12 split into 4 equal parts gives 3."
+    "response": "Division is splitting a number into equal parts. It's the opposite of multiplication. For example, 12 ÷ 4 = 3, meaning 12 split into 4 equal parts gives 3. Division is not commutative - order matters. The division sign (÷) or slash (/) represents division. We use division for sharing equally, calculating rates, and solving problems. Division by zero is undefined. Long division helps divide larger numbers. Division is essential for fractions, ratios, and proportions."
   },
   "algebra": {
     "keywords": ["algebra", "algebraic", "variables", "equations"],
-    "response": "Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. It's used to solve equations and find unknown values."
+    "response": "Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. It's used to solve equations and find unknown values. Variables like x, y, and z represent unknown numbers. Algebra helps us solve real-world problems by creating equations. It builds on arithmetic but uses abstract thinking. Algebra is essential for higher math like calculus and physics. The word comes from Arabic 'al-jabr' meaning 'reunion of broken parts.' Algebra is foundational to modern science and engineering."
   },
   "geometry": {
     "keywords": ["geometry", "shapes", "angles", "triangles", "circles"],
-    "response": "Geometry is the study of shapes, sizes, positions, and dimensions. It deals with points, lines, angles, surfaces, and solids."
+    "response": "Geometry is the study of shapes, sizes, positions, and dimensions. It deals with points, lines, angles, surfaces, and solids. Geometry has practical applications in architecture, engineering, and art. Plane geometry studies 2D shapes like circles and triangles, while solid geometry studies 3D objects like spheres and cubes. Geometry uses proofs to establish truths. It originated in ancient Greece with mathematicians like Euclid. Geometry helps us understand spatial relationships and measurements."
   },
   "fractions": {
     "keywords": ["fractions", "fraction", "numerator", "denominator"],
-    "response": "A fraction represents a part of a whole. It has a numerator (top number) and denominator (bottom number). For example, 1/2 means one half of something."
+    "response": "A fraction represents a part of a whole. It has a numerator (top number) and denominator (bottom number). For example, 1/2 means one half of something. Fractions can be proper (numerator smaller than denominator) or improper (numerator larger). Equivalent fractions represent the same value (1/2 = 2/4). Fractions are used in cooking, measurements, and probability. Understanding fractions is essential for decimals and percentages. Fractions have been used since ancient Egyptian and Babylonian civilizations."
   },
   "decimals": {
     "keywords": ["decimals", "decimal", "decimal point"],
@@ -642,6 +642,414 @@
   "books": {
     "keywords": ["books", "why are books important"],
     "response": "Books contain stories, information, and knowledge. Reading books is like going on adventures without leaving your seat!"
+  },
+  "chair": {
+    "keywords": ["chair", "chairs", "what is a chair"],
+    "response": "A chair is a piece of furniture designed for sitting. It typically has a seat, a backrest, and often four legs. Chairs come in many styles including dining chairs, armchairs, rocking chairs, and office chairs with wheels. They are made from various materials like wood, metal, plastic, or fabric. Chairs have been used for thousands of years, dating back to ancient civilizations. Good chairs provide comfort and support for your back while sitting."
+  },
+  "table": {
+    "keywords": ["table", "tables", "what is a table"],
+    "response": "A table is a flat surface supported by legs or a pedestal, used for eating, working, or displaying items. Tables come in many shapes like rectangular, round, square, and oval. Common types include dining tables, coffee tables, desks, and bedside tables. They are made from wood, glass, metal, or plastic. Tables have been essential furniture throughout history, used for meals, work, and social gatherings. The height of a table is important for comfort - dining tables are usually around 30 inches tall."
+  },
+  "computer": {
+    "keywords": ["computer", "computers", "what is a computer"],
+    "response": "A computer is an electronic device that processes data according to instructions. It consists of hardware components like the CPU (brain), memory, storage, and input/output devices. Computers can be desktops, laptops, tablets, or smartphones. They run software programs to perform tasks like word processing, internet browsing, gaming, and calculations. Modern computers connect to the internet, allowing communication and access to vast information. Computers have revolutionized how we work, learn, and communicate since their invention in the 20th century."
+  },
+  "laptop": {
+    "keywords": ["laptop", "laptop computer", "notebook"],
+    "response": "A laptop is a portable computer that combines the screen, keyboard, and trackpad into one compact unit. It runs on battery power, making it usable anywhere. Laptops typically weigh between 2-8 pounds and have screens ranging from 11-17 inches. They include all the components of a desktop computer but in a smaller form factor. Laptops are popular for students, professionals, and travelers who need computing on the go. Modern laptops can be very powerful, capable of running the same software as desktop computers."
+  },
+  "keyboard": {
+    "keywords": ["keyboard", "computer keyboard", "typing"],
+    "response": "A keyboard is an input device used to type text and commands into a computer. It has keys for letters, numbers, symbols, and special functions. Standard keyboards have about 104 keys arranged in QWERTY layout. Keyboards can be wired or wireless, and some are ergonomic to reduce strain. Specialized keyboards exist for gaming, programming, and accessibility. Keyboards use either mechanical switches or rubber dome switches under each key. Learning to type efficiently is an important skill in today's digital world."
+  },
+  "mouse": {
+    "keywords": ["mouse", "computer mouse", "clicking"],
+    "response": "A mouse is a handheld input device that controls the cursor on a computer screen. It typically has two buttons and a scroll wheel. Mice can be wired (USB) or wireless (Bluetooth or RF). Optical mice use light to track movement, while older mechanical mice used a rolling ball. Some mice are ergonomic to fit the hand comfortably. Gaming mice often have extra buttons and adjustable sensitivity. The mouse was invented in the 1960s and became essential for graphical user interfaces. Double-clicking, right-clicking, and dragging are common mouse actions."
+  },
+  "monitor": {
+    "keywords": ["monitor", "computer screen", "display"],
+    "response": "A monitor is the visual output device of a computer, displaying images and text. Modern monitors use LCD or LED technology and come in various sizes from 19 to 40+ inches. Resolution determines image clarity, with common resolutions being 1080p, 1440p, and 4K. Monitors can have refresh rates from 60Hz to 240Hz for smoother motion. Some monitors are curved for immersive viewing. Professional monitors offer accurate colors for design work. Monitors connect via HDMI, DisplayPort, or USB-C. Good monitors reduce eye strain with flicker-free technology and blue light filters."
+  },
+  "phone": {
+    "keywords": ["phone", "telephone", "smartphone", "mobile phone"],
+    "response": "A phone is a device used for voice communication. Modern smartphones are pocket-sized computers that can make calls, send texts, access the internet, run apps, take photos, and much more. They have touchscreens, cameras, GPS, and various sensors. Popular operating systems are iOS and Android. Smartphones have replaced many standalone devices like cameras, maps, and music players. They connect to cellular networks and WiFi. Modern phones have powerful processors and can last all day on battery charge. They've become essential tools for daily life."
+  },
+  "television": {
+    "keywords": ["television", "tv", "television set"],
+    "response": "A television is an electronic device that displays video and audio content for entertainment and information. Modern TVs use LED, OLED, or QLED technology and come in sizes from 32 to 85+ inches. They display content from cable, satellite, streaming services, or external devices. 4K and 8K resolutions provide incredibly sharp images. Smart TVs have built-in internet and apps. TVs have evolved from bulky CRT displays to ultra-thin panels. They are central to home entertainment, used for watching movies, sports, news, and playing video games. Sound quality varies, with many users adding soundbars or surround sound systems."
+  },
+  "remote": {
+    "keywords": ["remote", "remote control", "tv remote"],
+    "response": "A remote control is a handheld device that operates electronic devices like TVs, stereos, and air conditioners from a distance. It uses infrared signals or radio frequencies to send commands. Modern remotes can be universal, controlling multiple devices. Smart remotes use WiFi or Bluetooth and have touchscreens. Some remotes are voice-controlled. Remote controls have buttons for power, volume, channels, and navigation. They've evolved from simple devices with few buttons to complex controllers with many features. Losing remotes is a common frustration, leading to solutions like remote finders and smartphone apps."
+  },
+  "bed": {
+    "keywords": ["bed", "beds", "sleeping", "mattress"],
+    "response": "A bed is a piece of furniture used for sleeping and resting. It consists of a mattress on a base or frame. Beds come in standard sizes like twin, full, queen, and king. Mattresses can be innerspring, memory foam, latex, or hybrid. Good beds provide proper spinal support and comfort for quality sleep. Beds often have headboards and footboards for style. Pillows and bedding complete the sleep experience. Humans spend about one-third of their lives in bed, making it an important investment. The quality of your bed significantly affects sleep quality and overall health."
+  },
+  "pillow": {
+    "keywords": ["pillow", "pillows", "sleeping pillow"],
+    "response": "A pillow is a cushioned support for the head, used while sleeping or resting. Pillows are filled with materials like feathers, memory foam, latex, or polyester. They come in various firmness levels to suit different sleeping positions. Side sleepers need firmer pillows, back sleepers need medium, and stomach sleepers need soft. Pillows maintain proper neck alignment during sleep. They also provide comfort while reading or watching TV in bed. Pillows should be replaced every 1-2 years for hygiene and support. Special pillows exist for travel, neck pain, and specific sleep needs."
+  },
+  "blanket": {
+    "keywords": ["blanket", "blankets", "comforter", "quilt"],
+    "response": "A blanket is a large piece of soft fabric used for warmth while sleeping or resting. Blankets are made from materials like cotton, wool, fleece, or synthetic fibers. They come in various weights for different seasons - light blankets for summer, heavy ones for winter. Types include comforters, quilts, throws, and electric blankets. Blankets provide insulation by trapping body heat. They also offer comfort and security. Many people have favorite blankets they've had for years. Blankets are used on beds, sofas, and for outdoor activities. Washing blankets regularly keeps them clean and fresh."
+  },
+  "clock": {
+    "keywords": ["clock", "clocks", "time", "watch"],
+    "response": "A clock is a device that displays and measures time. Clocks can be analog with hands and a face, or digital showing numbers. They come in wall clocks, desk clocks, alarm clocks, and wristwatches. Clocks have been essential for centuries, evolving from sundials to mechanical clocks to modern atomic clocks. Some clocks are smart, connecting to the internet for automatic time updates. Alarm clocks wake people up at specific times. Clocks help us schedule our day and be punctual. Accurate timekeeping is crucial for modern society, from transportation to communication."
+  },
+  "lamp": {
+    "keywords": ["lamp", "lamps", "light", "lighting"],
+    "response": "A lamp is a device that provides artificial light. Lamps come in floor lamps, table lamps, desk lamps, and ceiling fixtures. They use various bulb types including LED, incandescent, and fluorescent. Lamps provide task lighting for reading, ambient lighting for mood, and accent lighting for decoration. Smart lamps can be controlled by phone or voice and change colors. Dimmable lamps allow brightness adjustment. Proper lighting is important for eye comfort and productivity. Lamps have evolved from oil lamps to electric bulbs to modern LED technology. Good lighting can transform the atmosphere of a room."
+  },
+  "window": {
+    "keywords": ["window", "windows", "glass window"],
+    "response": "A window is an opening in a wall covered with glass to let in light and air while providing protection from weather. Windows can be opened for ventilation or closed for insulation. They come in various styles like double-hung, casement, sliding, and picture windows. Windows are made with single, double, or triple panes for energy efficiency. Window treatments like curtains and blinds provide privacy and light control. Windows are essential for natural light, which improves mood and saves energy. They also provide views of the outside world. Modern windows have coatings that block UV rays and reduce heat transfer."
+  },
+  "door": {
+    "keywords": ["door", "doors", "entry door"],
+    "response": "A door is a movable barrier used to close off an entrance or exit. Doors provide security, privacy, and control access. They can be made of wood, metal, glass, or composite materials. Common types include entry doors, interior doors, sliding doors, and garage doors. Doors have hardware like handles, locks, and hinges. Automatic doors use sensors to open automatically. Fire doors are designed to prevent fire spread. Doors can be solid or have glass panels. Smart locks allow keyless entry. A good door should be secure, weather-resistant, and properly aligned. Doors are both functional and can be decorative elements of a home."
+  },
+  "refrigerator": {
+    "keywords": ["refrigerator", "fridge", "refrigerator", "freezer"],
+    "response": "A refrigerator is an appliance that keeps food cold to preserve it. It uses a cooling system to maintain temperatures around 35-40°F (2-4°C). Refrigerators have compartments for different food types and often include a freezer section for frozen foods. Modern fridges have features like ice makers, water dispensers, and smart technology. They come in various sizes and configurations like side-by-side, French door, and bottom freezer. Energy-efficient models save electricity. Proper refrigerator organization prevents food waste and cross-contamination. Regular cleaning maintains efficiency. The refrigerator is one of the most important appliances in modern kitchens."
+  },
+  "stove": {
+    "keywords": ["stove", "oven", "cooking stove", "range"],
+    "response": "A stove is a kitchen appliance used for cooking food. It typically has a cooktop with burners and an oven. Cooktops can be gas, electric, or induction. Ovens can be conventional or convection for even heating. Stoves come in various sizes and configurations. Modern stoves have features like self-cleaning ovens, digital controls, and smart connectivity. Gas stoves offer precise heat control, while electric and induction are easier to clean. Proper ventilation is important when using a stove. Stoves are essential for preparing meals and have evolved greatly from wood-burning stoves of the past."
+  },
+  "microwave": {
+    "keywords": ["microwave", "microwave oven", "microwave cooking"],
+    "response": "A microwave is a kitchen appliance that cooks food quickly using electromagnetic waves. It heats food by exciting water molecules, cooking from the inside out. Microwaves are perfect for reheating leftovers, defrosting food, and quick cooking. They come in various sizes from compact to large. Features include power levels, timers, and preset cooking programs. Some microwaves are convection, combining microwave and traditional heating. Microwaves are energy-efficient for small cooking tasks. They revolutionized home cooking when introduced in the mid-20th century. Safe microwave use requires appropriate containers and avoiding metal."
+  },
+  "dishwasher": {
+    "keywords": ["dishwasher", "washing dishes", "dish washing"],
+    "response": "A dishwasher is an appliance that automatically cleans dishes, utensils, and cookware. It uses hot water and detergent to remove food and sanitize items. Dishwashers have racks for different types of items and spray arms for water distribution. They save significant time and water compared to hand washing. Modern dishwashers are energy-efficient and quiet. Features include multiple wash cycles, delayed start, and smart connectivity. Proper loading ensures thorough cleaning. Dishes should be scraped but not pre-rinsed for best results. Dishwashers have become standard in most modern kitchens, making daily cleanup much easier."
+  },
+  "sink": {
+    "keywords": ["sink", "kitchen sink", "bathroom sink"],
+    "response": "A sink is a basin with a faucet and drain, used for washing hands, dishes, and other items. Kitchen sinks are larger for dishwashing, while bathroom sinks are smaller for personal hygiene. Sinks are made from materials like stainless steel, porcelain, or composite. They have hot and cold water controls, often mixing to a comfortable temperature. Drains include traps to prevent sewer gas from entering. Garbage disposals can be installed in kitchen sinks to grind food waste. Sinks are essential for hygiene and food preparation. Modern sinks come in various styles and configurations to suit different needs and aesthetics."
+  },
+  "faucet": {
+    "keywords": ["faucet", "tap", "water faucet"],
+    "response": "A faucet is a device that controls the flow of water from a pipe. It has handles or knobs to turn water on off and adjust temperature. Faucets are found in sinks, bathtubs, and showers. They come in various styles like single-handle, double-handle, and touchless. Modern faucets can be water-efficient and have features like pull-out sprayers. Touchless faucets use sensors for hands-free operation, improving hygiene. Faucets are made from materials like brass, stainless steel, or chrome. Proper faucet maintenance prevents leaks and drips. A good faucet should be durable, easy to use, and match the sink design."
+  },
+  "toilet": {
+    "keywords": ["toilet", "bathroom toilet", "flush toilet"],
+    "response": "A toilet is a bathroom fixture used for disposing of human waste through flushing with water. Modern toilets use a tank that releases water into the bowl to carry waste to sewage systems. They have a seat, lid, and flush mechanism. Toilets come in various styles like two-piece, one-piece, and wall-mounted. Water-efficient toilets use less water per flush. Features include dual-flush options for liquid vs solid waste. Proper toilet maintenance prevents clogs and leaks. Toilets are essential for modern sanitation and public health. They have evolved greatly from historical chamber pots and outhouses to today's sophisticated plumbing systems."
+  },
+  "shower": {
+    "keywords": ["shower", "taking a shower", "shower head"],
+    "response": "A shower is a plumbing fixture for bathing with spraying water. It typically has a shower head that can be handheld or mounted. Showers use less water than baths and are quick and convenient. Modern shower heads offer different spray patterns and water pressure options. Some showers are equipped with body jets for a spa-like experience. Temperature control is important for comfort and safety. Shower curtains or doors contain water and provide privacy. Walk-in showers are popular for accessibility. Regular cleaning prevents mold and soap scum buildup. Showers are a daily ritual for personal hygiene and relaxation."
+  },
+  "bathtub": {
+    "keywords": ["bathtub", "tub", "taking a bath"],
+    "response": "A bathtub is a large container for bathing, filled with water. It allows for full-body immersion and relaxation. Bathtubs come in various styles like alcove, freestanding, and corner tubs. Materials include acrylic, fiberglass, cast iron, and stone. Some tubs have jets for whirlpool massage. Deep soaking tubs allow full submersion. Bathtubs are often combined with showers in modern bathrooms. Taking a bath can be relaxing and therapeutic. Proper ventilation prevents moisture damage. Bathtubs have been used for thousands of years, from ancient Roman baths to modern luxury tubs."
+  },
+  "soap": {
+    "keywords": ["soap", "hand soap", "bar soap"],
+    "response": "Soap is a cleaning agent made from fats or oils and an alkali. It works by breaking down oils and dirt so they can be rinsed away with water. Soap comes in bar form, liquid form, and various scents. Antibacterial soap kills germs, while regular soap removes them mechanically. Soap is used for personal hygiene, laundry, and cleaning. Natural soaps use organic ingredients, while commercial soaps may contain synthetic additives. Proper hand washing with soap is crucial for preventing illness. Soap has been used for thousands of years, with ancient civilizations making it from animal fats and plant ashes."
+  },
+  "toothbrush": {
+    "keywords": ["toothbrush", "brushing teeth", "dental care"],
+    "response": "A toothbrush is a tool with bristles used for cleaning teeth. It removes plaque and food particles to prevent cavities and gum disease. Toothbrushes come in manual and electric versions. Electric toothbrushes often provide more effective cleaning with vibrating or rotating heads. Bristles can be soft, medium, or hard - dentists recommend soft bristles. Toothbrushes should be replaced every 3-4 months or when bristles fray. Proper brushing technique involves gentle circular motions. Toothbrushes have evolved from twigs with frayed ends to modern engineered designs. Using fluoride toothpaste with brushing provides additional protection against tooth decay."
+  },
+  "toothpaste": {
+    "keywords": ["toothpaste", "dental paste", "cleaning teeth"],
+    "response": "Toothpaste is a paste or gel used with a toothbrush to clean teeth. It contains abrasives to remove plaque, fluoride to strengthen enamel, and detergents to foam. Toothpaste comes in various flavors like mint, cinnamon, and fruit. Some formulas are for sensitive teeth, whitening, or gum care. Fluoride toothpaste helps prevent cavities by remineralizing tooth enamel. Proper amount is a pea-sized dollop for adults. Toothpaste should not be swallowed, especially for children. It freshens breath and leaves a clean feeling. Modern toothpaste has evolved from simple powders to complex formulations addressing various dental needs."
+  },
+  "towel": {
+    "keywords": ["towel", "bath towel", "paper towel"],
+    "response": "A towel is an absorbent cloth used for drying. Bath towels are large for drying the body, hand towels are smaller, and washcloths are smallest. Towels are made from cotton, microfiber, or bamboo. They absorb water through capillary action in the fibers. Towels should be washed regularly to prevent bacteria buildup. Some towels are quick-drying for frequent use. Paper towels are disposable for cleaning spills. Towels come in various colors and patterns. Good towels are soft, absorbent, and durable. They are essential for personal hygiene after bathing, swimming, or washing hands."
+  },
+  "soap_dispenser": {
+    "keywords": ["soap dispenser", "hand soap dispenser", "pump soap"],
+    "response": "A soap dispenser is a container that holds liquid soap and dispenses it in controlled amounts. It typically uses a pump mechanism that releases soap when pressed. Dispensers are more hygienic than bar soap as they reduce contamination. They come in manual, automatic, and wall-mounted versions. Automatic dispensers use motion sensors for touchless operation. They can be filled with hand soap, dish soap, or sanitizer. Dispensers are common in public restrooms and increasingly in homes. They reduce waste by dispensing the right amount. Refillable dispensers are more economical than disposable ones."
+  },
+  "mirror": {
+    "keywords": ["mirror", "mirrors", "looking glass"],
+    "response": "A mirror is a reflective surface that forms images of objects placed in front of it. Most mirrors are made by coating glass with a reflective metal like silver or aluminum. Mirrors are essential for personal grooming, checking appearance, and decorating spaces. They come in various shapes and sizes, from small handheld mirrors to large wall mirrors. Bathroom mirrors often have anti-fog coatings. Some mirrors are magnifying for detailed work. Mirrors also make spaces appear larger by reflecting light. They have been used for thousands of years, from polished metal surfaces to modern glass mirrors. Proper cleaning maintains clarity and removes streaks."
+  },
+  "cabinet": {
+    "keywords": ["cabinet", "storage cabinet", "kitchen cabinet"],
+    "response": "A cabinet is a piece of furniture with doors and shelves used for storage. Kitchen cabinets store food, dishes, and cooking equipment. Bathroom cabinets hold toiletries and towels. Office cabinets store documents and supplies. Cabinets can be freestanding or built into walls. They are made from wood, metal, or composite materials. Cabinets often have drawers for smaller items. Proper organization maximizes storage efficiency. Cabinet hardware includes handles, hinges, and drawer slides. Modern cabinets can have soft-close mechanisms and pull-out shelves. Cabinets are essential for keeping spaces organized and clutter-free."
+  },
+  "drawer": {
+    "keywords": ["drawer", "drawers", "storage drawer"],
+    "response": "A drawer is a box-like compartment that slides in and out of a piece of furniture. Drawers are used for storage and organization in desks, dressers, cabinets, and tables. They run on slides or rails that allow smooth movement. Drawers can have dividers for organizing smaller items. Some drawers have locks for security. Soft-close drawers prevent slamming. Drawer pulls or handles make them easy to open. Proper drawer organization saves time and frustration. Overloading drawers can damage the slides. Drawers have been used for centuries, evolving from simple wooden boxes to modern engineered systems with advanced hardware."
+  },
+  "shelf": {
+    "keywords": ["shelf", "shelves", "storage shelf", "bookshelf"],
+    "response": "A shelf is a flat horizontal surface used for storing or displaying items. Shelves can be wall-mounted or part of furniture like bookcases. They are made from wood, metal, glass, or plastic. Shelves hold books, decorations, dishes, and various items. Adjustable shelves allow customization of storage space. Floating shelves appear to be mounted without visible supports. Proper weight distribution prevents sagging. Shelves are essential for organization and can be decorative elements. They maximize vertical storage space. Good shelf design considers both functionality and aesthetics, balancing strength with visual appeal."
+  },
+  "sofa": {
+    "keywords": ["sofa", "couch", "sofa bed"],
+    "response": "A sofa is a long upholstered seat with a back and arms, designed to seat multiple people. Also called a couch or settee, sofas are central to living room furniture. They come in various sizes from loveseats for two to sectionals for many. Sofas are upholstered in fabric or leather over a frame of wood or metal. Some sofas convert to beds for overnight guests. Features may include reclining seats, built-in storage, or charging ports. Comfort depends on cushioning and support. Sofas are where families gather to relax, watch TV, and socialize. A good sofa balances comfort, durability, and style."
+  },
+  "couch": {
+    "keywords": ["couch", "sofa", "living room couch"],
+    "response": "A couch is essentially the same as a sofa - a long upholstered seat for multiple people. The terms are often used interchangeably, though 'couch' is sometimes considered more casual. Couches come in various styles like traditional, modern, and mid-century. They can have fixed or removable cushions. Some couches have chaise lounges for reclining. Upholstery options include fabric, leather, and microfiber. Couches are where people relax, watch movies, and entertain guests. They're often the largest piece of furniture in a living room and set the tone for the room's style."
+  },
+  "armchair": {
+    "keywords": ["armchair", "easy chair", "accent chair"],
+    "response": "An armchair is a comfortable chair with armrests, designed for one person. Armchairs are often upholstered and used in living rooms, bedrooms, or offices. They can be recliners that tilt back for relaxation. Wingback chairs have high sides for warmth and privacy. Accent chairs add style and color to a room. Armchairs provide personal seating for reading, watching TV, or conversation. They come in various styles from traditional to modern. Comfort depends on seat height, back support, and cushioning. A good armchair is both comfortable and visually appealing, complementing other furniture."
+  },
+  "coffee_table": {
+    "keywords": ["coffee table", "living room table"],
+    "response": "A coffee table is a low table placed in front of a sofa in a living room. It's used for holding drinks, books, magazines, and decorative items. Coffee tables come in various shapes like rectangular, round, oval, and square. Materials include wood, glass, metal, and combinations thereof. Some have storage shelves or drawers underneath. Height is important - typically 16-18 inches to match sofa seat height. Coffee tables serve as a focal point in living rooms and can tie the room's design together. They should be proportionate to the sofa and leave enough walking space around them."
+  },
+  "carpet": {
+    "keywords": ["carpet", "rugs", "floor carpet"],
+    "response": "Carpet is a textile floor covering made from woven or tufted fibers. It provides warmth, comfort, and sound insulation to rooms. Carpets come in various materials like wool, nylon, polyester, and olefin. They can be wall-to-wall or area rugs covering specific spaces. Carpet colors and patterns affect room aesthetics. Regular vacuuming removes dirt and extends carpet life. Professional cleaning periodically removes deep dirt and stains. Carpets can trap allergens, so they may not be ideal for allergy sufferers. Carpet padding underneath adds comfort and extends carpet durability. Good carpet selection considers traffic, maintenance, and style."
+  },
+  "rug": {
+    "keywords": ["rug", "area rug", "floor rug"],
+    "response": "A rug is a textile floor covering that doesn't cover the entire floor. Area rugs define spaces and add color and texture to rooms. They come in various sizes, shapes, and materials. Rugs can be hand-knotted, tufted, or woven. Materials include wool, cotton, silk, and synthetic fibers. Rugs protect floors and provide warmth and comfort. They can be used over carpet or hard floors. Proper rug size should fit the furniture arrangement. Rug pads prevent slipping and extend rug life. Rugs are easier to clean than wall-to-wall carpet and can be moved or changed to refresh a room's look."
+  },
+  "curtain": {
+    "keywords": ["curtain", "curtains", "window curtains"],
+    "response": "Curtains are fabric panels hung over windows for privacy, light control, and decoration. They come in various styles like rod pocket, grommet, and tab-top. Curtains can be lined for better light blocking and insulation. Materials range from sheer to blackout fabrics. Length options include sill-length, floor-length, and puddle-length. Curtains are hung on rods with rings or clips. Tiebacks hold curtains to the sides. Curtains soften windows and add softness to rooms. They can dramatically change a room's appearance and mood. Proper curtain care includes regular washing or dry cleaning."
+  },
+  "blind": {
+    "keywords": ["blind", "blinds", "window blinds"],
+    "response": "Blinds are window coverings made of slats that can be tilted to control light and privacy. They come in horizontal (mini blinds, venetian blinds) and vertical styles. Materials include aluminum, wood, faux wood, and fabric. Blinds offer precise light control by adjusting slat angle. They can be raised completely to expose the window. Motorized blinds can be controlled remotely. Blinds are more minimalist than curtains and suit modern decor. They're easier to clean than fabric curtains. Blinds provide insulation when closed. Proper measurement ensures good fit and coverage. Blinds are practical and functional window treatments."
+  },
+  "fan": {
+    "keywords": ["fan", "ceiling fan", "electric fan"],
+    "response": "A fan is a device that creates airflow by rotating blades. Fans provide cooling by circulating air and creating a wind chill effect. Types include ceiling fans, pedestal fans, table fans, and box fans. Ceiling fans are mounted overhead and can rotate in both directions. Fans are much more energy-efficient than air conditioning. Some fans include heaters for year-round use. Modern fans are quiet and have multiple speed settings. Oscillating fans rotate to cover a wider area. Fans are essential for comfort in warm weather and can help distribute heating in winter. Proper maintenance includes cleaning blades and checking balance."
+  },
+  "air_conditioner": {
+    "keywords": ["air conditioner", "ac", "air conditioning"],
+    "response": "An air conditioner is a system that cools and dehumidifies indoor air. It works by removing heat and moisture from indoor air and releasing it outside. Types include central AC, window units, and portable units. Central AC cools entire homes through ductwork. AC units have thermostats for temperature control. Modern AC units are energy-efficient with SEER ratings. They also filter air, improving indoor air quality. AC is essential for comfort in hot climates. Regular maintenance includes changing filters and checking refrigerant levels. Air conditioning has revolutionized comfort in hot regions and is now considered essential in many buildings."
+  },
+  "heater": {
+    "keywords": ["heater", "space heater", "electric heater"],
+    "response": "A heater is a device that generates warmth for indoor spaces. Types include electric space heaters, gas heaters, and radiators. Electric heaters use heating elements, while gas heaters burn fuel. Some heaters have fans to distribute warm air, while others radiate heat. Safety features include tip-over switches and overheat protection. Heaters are used for supplemental heating or in rooms without central heating. Energy-efficient models use less electricity. Heaters should be placed away from flammable materials. Proper ventilation is important for gas heaters. Heaters provide comfort in cold weather and can reduce heating costs by heating only occupied rooms."
+  },
+  "thermostat": {
+    "keywords": ["thermostat", "temperature control", "home thermostat"],
+    "response": "A thermostat is a device that controls heating and cooling systems to maintain desired temperature. It senses the current temperature and signals the HVAC system to turn on or off. Programmable thermostats can be set to different temperatures for different times of day. Smart thermostats can be controlled remotely via smartphone and learn your schedule. They can significantly reduce energy costs by optimizing heating and cooling. Thermostats are typically wall-mounted in central locations. Digital thermostats are more precise than mechanical ones. Proper thermostat placement ensures accurate temperature readings. They're essential for home comfort and energy efficiency."
+  },
+  "vacuum": {
+    "keywords": ["vacuum", "vacuum cleaner", "vacuuming"],
+    "response": "A vacuum cleaner is a device that uses suction to clean floors and surfaces. It removes dust, dirt, and debris from carpets and hard floors. Types include upright, canister, stick, and robot vacuums. Upright vacuums are powerful and good for carpets. Canister vacuums are versatile for various surfaces. Robot vacuums clean automatically on schedules. Vacuums have filters to trap dust and allergens. Some have attachments for upholstery, crevices, and stairs. Bagless vacuums collect dirt in containers, while bagged vacuums use disposable bags. Regular vacuuming maintains clean floors and indoor air quality. Proper maintenance includes emptying dust containers and cleaning filters."
+  },
+  "broom": {
+    "keywords": ["broom", "brooms", "sweeping"],
+    "response": "A broom is a cleaning tool with bristles attached to a handle, used for sweeping floors. Brooms are made from natural materials like corn husks or synthetic materials like plastic. They're used on hard floors to gather dust and debris into a pile for collection. Brooms come in various sizes and styles. Angle brooms have angled bristles for reaching corners. Push brooms are wide for large areas. Dustpans are used with brooms to collect swept debris. Brooms are simple but essential cleaning tools. They're quiet, require no electricity, and are effective for quick cleanups. Proper storage keeps bristles from bending."
+  },
+  "mop": {
+    "keywords": ["mop", "mopping", "floor mop"],
+    "response": "A mop is a cleaning tool with absorbent material attached to a handle, used for wet cleaning floors. Mops are used with water and cleaning solution to remove dirt and stains. Types include string mops, sponge mops, and flat mops. Some mops have built-in wringers to remove excess water. Spray mops dispense cleaning solution directly. Steam mops use hot steam to sanitize floors. Mops are used after sweeping to thoroughly clean floors. They're essential for maintaining hard floors like tile, wood, and laminate. Proper mopping technique prevents streaks and ensures even cleaning. Mops should be cleaned and dried after use to prevent mold."
+  },
+  "bucket": {
+    "keywords": ["bucket", "buckets", "cleaning bucket"],
+    "response": "A bucket is a cylindrical container with a handle, used for carrying liquids and other materials. Buckets are made from plastic, metal, or wood. They're essential for cleaning, gardening, and construction. Cleaning buckets hold water and cleaning solution for mopping. Garden buckets carry water for plants. Construction buckets mix and carry materials like cement. Buckets come in various sizes from small to large. Some have measurement markings. Heavy-duty buckets can carry substantial weight. Buckets have been used for thousands of years, evolving from wooden containers to modern plastic designs. Proper bucket maintenance includes cleaning and checking for cracks."
+  },
+  "sponge": {
+    "keywords": ["sponge", "cleaning sponge", "kitchen sponge"],
+    "response": "A sponge is a porous material used for cleaning, absorbing liquids, and applying substances. Natural sponges come from sea creatures, while synthetic sponges are made from cellulose or foam. Kitchen sponges have abrasive sides for scrubbing dishes. Cleaning sponges wipe surfaces and absorb spills. Sponges can hold many times their weight in water. They should be cleaned regularly to prevent bacterial growth. Some sponges are antimicrobial. Sponges are versatile tools used in kitchens, bathrooms, and general cleaning. They're inexpensive and disposable. Proper sponge use involves different sponges for different tasks to avoid cross-contamination."
+  },
+  "trash_can": {
+    "keywords": ["trash can", "garbage can", "waste bin"],
+    "response": "A trash can is a container for holding waste before disposal. They come in various sizes for different locations - small for bathrooms, medium for kitchens, large for outdoors. Materials include plastic, metal, and stainless steel. Some have foot pedals for hands-free opening. Lids contain odors and keep pests out. Recycling bins separate recyclable materials. Compost bins hold organic waste. Trash cans should be lined with bags for easy emptying. Regular emptying prevents overflow and odors. Trash cans are essential for maintaining clean and organized spaces. Modern designs focus on aesthetics and functionality."
+  },
+  "recycling": {
+    "keywords": ["recycling", "recycle", "recycling bin"],
+    "response": "Recycling is the process of converting waste materials into new materials and objects. Common recyclable materials include paper, plastic, glass, and metal. Recycling reduces waste sent to landfills and conserves natural resources. It requires separating recyclables from regular trash. Many communities have curbside recycling programs. Recycling symbols on products indicate recyclability. Proper recycling includes cleaning containers and removing non-recyclable parts. Recycling helps the environment by reducing pollution and saving energy. It's an important practice for sustainability. Education about what can be recycled is essential for effective recycling programs."
+  },
+  "umbrella": {
+    "keywords": ["umbrella", "rain umbrella", "umbrellas"],
+    "response": "An umbrella is a collapsible canopy supported by metal ribs, used for protection against rain or sun. Rain umbrellas have waterproof fabric like nylon or polyester. Sun umbrellas block UV rays with special coatings. Umbrellas fold for easy carrying in bags or pockets. Automatic umbrellas open with a button press. Size varies from compact pocket umbrellas to large golf umbrellas. Umbrellas have been used for thousands of years, evolving from palm leaves to modern engineered designs. A good umbrella is wind-resistant and durable. Proper maintenance includes drying before storage to prevent mold. Umbrellas are essential accessories in rainy climates."
+  },
+  "backpack": {
+    "keywords": ["backpack", "school bag", "backpacks"],
+    "response": "A backpack is a bag carried on the back with two shoulder straps. It's designed to distribute weight evenly across both shoulders. Backpacks are used by students for books, by hikers for gear, and by travelers for essentials. They have multiple compartments for organization. Materials include nylon, canvas, and leather. Some backpacks have padded laptop sleeves. Hydration backpacks include water bladders. Ergonomic designs include padded straps and back panels. Backpacks come in various sizes from small daypacks to large travel packs. Proper packing prevents strain. Backpacks are versatile and hands-free, making them popular for many activities."
+  },
+  "bag": {
+    "keywords": ["bag", "handbag", "purse", "shopping bag"],
+    "response": "A bag is a flexible container used for carrying items. Types include handbags, backpacks, tote bags, and shopping bags. Handbags are fashion accessories carried by women. Tote bags are simple open-top bags. Shopping bags carry purchases. Bags are made from leather, canvas, plastic, or fabric. They have handles or straps for carrying. Some bags have zippers or closures for security. Bags come in various sizes and styles. They're essential for daily life, carrying personal items, work materials, or shopping. A good bag balances functionality with style. Proper bag organization makes finding items easier."
+  },
+  "wallet": {
+    "keywords": ["wallet", "money wallet", "leather wallet"],
+    "response": "A wallet is a small flat case used to carry money, cards, and identification. It typically has compartments for cash, credit cards, ID, and coins. Wallets are made from leather, synthetic materials, or fabric. Types include bi-fold, tri-fold, and card holders. Some wallets have RFID blocking to protect card information. Minimalist wallets carry only essentials. Money clips are alternatives to traditional wallets. Wallets are usually carried in pockets or bags. They should be organized to prevent bulk. A good wallet is durable and secure. Digital wallets on phones are becoming popular alternatives to physical wallets."
+  },
+  "purse": {
+    "keywords": ["purse", "handbag", "ladies purse"],
+    "response": "A purse is a small bag used by women to carry personal items like money, keys, makeup, and phone. Purses come in various styles including clutch, shoulder bag, crossbody, and tote. They're made from leather, fabric, or synthetic materials. Purses often have multiple compartments for organization. Designer purses are fashion statements. Size varies from small evening bags to large everyday purses. Purses coordinate with outfits and express personal style. They should be organized to find items easily. Quality purses are durable and well-constructed. Purses have been fashion accessories for centuries, evolving from simple pouches to sophisticated designs."
+  },
+  "key": {
+    "keywords": ["key", "keys", "house key", "car key"],
+    "response": "A key is a small metal instrument used to operate a lock. It has teeth or cuts that match the lock's mechanism. Keys are used for homes, cars, offices, and safes. Modern car keys may be electronic fobs. Some keys are master keys that open multiple locks. Keys are typically carried on keyrings. Losing keys is a common problem, leading to spare keys and key finders. Keys provide security by controlling access. They've been used for thousands of years, evolving from wooden ancient keys to modern metal and electronic keys. Proper key management includes knowing where spares are kept."
+  },
+  "lock": {
+    "keywords": ["lock", "padlock", "door lock"],
+    "response": "A lock is a mechanical or electronic device that secures doors, containers, or other items. It requires a key, combination, or electronic signal to open. Types include padlocks, deadbolts, and smart locks. Padlocks are portable and used on lockers and gates. Deadbolts provide additional security for doors. Smart locks can be controlled remotely via smartphone. Combination locks use number sequences instead of keys. Locks are essential for security and privacy. They should be properly installed and maintained. Modern locks offer convenience with features like keyless entry and access logs. Good locks balance security with ease of use."
+  },
+  "hammer": {
+    "keywords": ["hammer", "hammers", "tool hammer"],
+    "response": "A hammer is a tool used for driving nails, fitting parts, and breaking objects. It consists of a handle and a heavy head. The head has a flat face for striking and often a claw for removing nails. Types include claw hammers, ball-peen hammers, and sledgehammers. Hammers are made from steel with wooden, fiberglass, or steel handles. Proper hammering technique involves striking squarely and using appropriate force. Safety includes wearing eye protection. Hammers are essential tools for construction and DIY projects. They've been used for thousands of years, evolving from stone tools to modern precision instruments."
+  },
+  "screwdriver": {
+    "keywords": ["screwdriver", "screwdrivers", "tool"],
+    "response": "A screwdriver is a tool used for turning screws. It has a handle and a shaft with a tip that fits into the screw head. Common tip types include Phillips (cross) and flathead (slotted). Some screwdrivers have interchangeable bits for different screw types. Electric screwdrivers provide power for easier driving. Precision screwdrivers are for small electronics. Proper screwdriver use requires matching the tip to the screw to avoid damage. Screwdrivers are essential for assembly, repair, and construction. They're one of the most basic and necessary tools. Good screwdrivers have comfortable handles and durable tips."
+  },
+  "wrench": {
+    "keywords": ["wrench", "wrenches", "tool wrench"],
+    "response": "A wrench is a tool used for gripping and turning nuts and bolts. It has jaws that fit around fasteners. Types include adjustable wrenches, socket wrenches, and combination wrenches. Adjustable wrenches have one movable jaw to fit various sizes. Socket wrenches use interchangeable sockets. Wrenches are made from steel for strength. Proper use involves choosing the right size to avoid stripping fasteners. Wrenches are essential for mechanical work, plumbing, and automotive repair. They provide leverage to tighten or loosen fasteners. Good wrenches have comfortable grips and precise jaws."
+  },
+  "pliers": {
+    "keywords": ["pliers", "cutting pliers", "tool pliers"],
+    "response": "Pliers are gripping tools with two handles and jaws that pivot. They're used for gripping, cutting, and bending wire and other materials. Types include needle-nose pliers for precision work, lineman's pliers for electrical work, and cutting pliers for wire. Some pliers have locking mechanisms to maintain grip. Pliers are made from steel with insulated handles for electrical safety. Proper use involves selecting the right type for the job. Pliers are essential tools for electrical work, jewelry making, and general repairs. They provide leverage and precision that fingers alone cannot."
+  },
+  "saw": {
+    "keywords": ["saw", "saws", "cutting saw"],
+    "response": "A saw is a tool with a toothed edge used for cutting materials like wood, metal, or plastic. Types include hand saws, power saws, and specialty saws. Hand saws require manual effort and include crosscut saws and rip saws. Power saws include circular saws, jigsaws, and reciprocating saws. Hacksaws cut metal. Proper saw use involves following safety guidelines and using appropriate blades. Saws are essential for construction, woodworking, and DIY projects. They've evolved from primitive tools to precision instruments. Good saws have sharp, properly set teeth and comfortable handles."
+  },
+  "drill": {
+    "keywords": ["drill", "power drill", "drilling"],
+    "response": "A drill is a tool used for making holes in materials or driving screws. Power drills use electric motors to rotate drill bits. Cordless drills use rechargeable batteries for portability. Drills have adjustable speed and torque settings. They can be used for drilling in wood, metal, concrete, and other materials. Some drills have hammer action for masonry. Drill bits come in various sizes and types for different materials. Proper drill use includes securing the workpiece and using appropriate safety gear. Drills are essential for construction, woodworking, and home improvement projects."
+  },
+  "ladder": {
+    "keywords": ["ladder", "ladders", "climbing ladder"],
+    "response": "A ladder is a vertical set of rungs or steps used for climbing to reach higher places. Types include step ladders, extension ladders, and platform ladders. Step ladders are self-supporting and foldable. Extension ladders can extend to greater heights. Ladders are made from aluminum, fiberglass, or wood. Fiberglass ladders are non-conductive for electrical work. Proper ladder use includes placing on level ground and maintaining three points of contact. Safety includes not standing on the top rung. Ladders are essential for home maintenance, construction, and reaching high places. They should be inspected regularly for damage."
+  },
+  "tape_measure": {
+    "keywords": ["tape measure", "measuring tape", "ruler"],
+    "response": "A tape measure is a flexible ruler used for measuring length. It consists of a ribbon of marked material that retracts into a case. Tape measures are essential for construction, sewing, and DIY projects. They typically measure in both imperial (inches/feet) and metric (centimeters/meters) units. Locking mechanisms hold the tape in place. Some have magnetic hooks for metal surfaces. Proper use includes keeping the tape straight and reading measurements accurately. Tape measures come in various lengths from 6 feet to 35 feet or more. They're indispensable tools for any project requiring precise measurements."
+  },
+  "level": {
+    "keywords": ["level", "spirit level", "bubble level"],
+    "response": "A level is a tool used to determine if a surface is horizontal (level) or vertical (plumb). It contains liquid in a curved tube with a bubble that indicates when the surface is perfectly aligned. Levels are essential for construction, hanging pictures, and installing shelves. Types include torpedo levels for small spaces and longer levels for larger projects. Digital levels provide precise digital readings. Laser levels project lines for alignment over distances. Proper use involves placing the level on the surface and adjusting until the bubble is centered. Levels ensure professional-quality results in construction and home improvement."
+  },
+  "paintbrush": {
+    "keywords": ["paintbrush", "paint brushes", "painting"],
+    "response": "A paintbrush is a tool used for applying paint or other coatings to surfaces. It has bristles attached to a handle. Bristles can be natural (animal hair) or synthetic (nylon or polyester). Different brush shapes serve different purposes - flat brushes for large areas, angled brushes for edges, and round brushes for detail. Brush sizes vary from tiny artist brushes to large house painting brushes. Proper brush care includes cleaning immediately after use. Quality brushes hold more paint and provide smoother application. Paintbrushes are essential for painting projects, art, and various crafts. Good technique involves proper loading and brush strokes."
+  },
+  "roller": {
+    "keywords": ["roller", "paint roller", "painting roller"],
+    "response": "A paint roller is a tool used for applying paint to large surfaces quickly. It consists of a cylindrical roller cover on a frame with a handle. Roller covers vary in nap length for different surfaces - short nap for smooth surfaces, long nap for textured surfaces. Rollers cover much more area than brushes in less time. They're used with paint trays for loading paint. Extension poles can reach high ceilings and walls. Proper technique involves maintaining wet edges and avoiding overloading. Rollers are essential for painting walls and ceilings. They provide smooth, even coverage and are much faster than brushing large areas."
+  },
+  "paint": {
+    "keywords": ["paint", "wall paint", "house paint"],
+    "response": "Paint is a liquid coating applied to surfaces for protection, decoration, or both. It consists of pigment, binder, and solvent. Types include interior paint, exterior paint, and specialty paints. Finishes range from flat to high-gloss, affecting durability and sheen. Paint colors can transform the look and feel of a space. Proper surface preparation ensures good adhesion and longevity. Paint can be applied with brushes, rollers, or sprayers. Modern paints are low-VOC for better air quality. Paint has been used for thousands of years, from ancient cave paintings to modern sophisticated formulations. Quality paint provides better coverage and durability."
+  },
+  "glue": {
+    "keywords": ["glue", "adhesive", "gluing"],
+    "response": "Glue is an adhesive substance used to bond materials together. Types include white glue for paper and wood, super glue for quick strong bonds, epoxy for heavy-duty applications, and hot glue for crafts. Some glues are water-based, others solvent-based. Proper surface preparation ensures strong bonds. Clamping pieces together while glue dries improves results. Some glues require mixing before use. Glue is essential for crafts, repairs, and construction. Modern adhesives are incredibly strong and can bond almost any material. Safety includes proper ventilation and following manufacturer instructions."
+  },
+  "tape": {
+    "keywords": ["tape", "adhesive tape", "duct tape"],
+    "response": "Tape is a strip of material with adhesive on one side used for binding, sealing, or attaching. Types include duct tape for general repairs, masking tape for painting, electrical tape for wiring, and packing tape for boxes. Some tapes are double-sided for invisible bonding. Tape is made from various materials including plastic, cloth, and paper. Proper tape selection depends on the application - strength, temperature resistance, and removability are factors. Tape is essential for repairs, packaging, and temporary fixes. Quality tape provides good adhesion and durability. Some tapes are designed for specific surfaces like glass or fabric."
+  },
+  "scissors": {
+    "keywords": ["scissors", "cutting scissors", "shears"],
+    "response": "Scissors are cutting tools with two blades pivoted so that the sharpened edges slide against each other. They're used for cutting paper, fabric, hair, and various materials. Types include general-purpose scissors, fabric scissors, and kitchen shears. Left-handed scissors are designed for left-handed users. Some scissors have ergonomic handles for comfort. Proper scissor use involves cutting away from the body and using the appropriate scissors for the material. Scissors should be kept sharp for effective cutting. They're essential household tools used daily. Quality scissors have good balance and sharp blades that hold an edge."
+  },
+  "ruler": {
+    "keywords": ["ruler", "measuring ruler", "straight edge"],
+    "response": "A ruler is a straight edge with marked measurements used for drawing straight lines and measuring. Rulers are typically made of plastic, metal, or wood. They measure in both imperial (inches) and metric (centimeters) units. Standard rulers are 12 inches long, while longer rulers are called yardsticks. Some rulers have special scales for engineering or drafting. Transparent rulers allow seeing what's underneath. Rulers are essential tools for students, artists, and professionals. They're used in math, art, drafting, and everyday measuring. Quality rulers have clear, accurate markings and durable materials."
+  },
+  "pencil": {
+    "keywords": ["pencil", "writing pencil", "graphite pencil"],
+    "response": "A pencil is a writing instrument with a solid pigment core inside a protective casing. Most pencils use graphite for marking. Pencils are graded by hardness - H for hard, HB for medium, B for soft. Mechanical pencils have refillable leads. Colored pencils use pigments instead of graphite. Pencils can be erased, unlike pens. Proper sharpening maintains a good point. Pencils are essential for writing, drawing, and sketching. They're inexpensive, reliable, and don't leak. Pencils have been used for centuries, evolving from wrapped graphite to modern mechanical designs. A good pencil has smooth lead and comfortable grip."
+  },
+  "pen": {
+    "keywords": ["pen", "writing pen", "ballpoint pen"],
+    "response": "A pen is a writing instrument that uses ink to make marks. Types include ballpoint pens, fountain pens, gel pens, and rollerball pens. Ballpoint pens use a rolling ball to dispense ink and are the most common. Fountain pens use gravity and capillary action for smooth writing. Gel pens use water-based gel for vibrant colors. Pens come in various tip sizes from fine to bold. Ink colors include black, blue, red, and many others. Pens are essential for writing, signing documents, and everyday tasks. They're more permanent than pencils but can't be erased. Quality pens write smoothly and don't skip."
+  },
+  "notebook": {
+    "keywords": ["notebook", "writing notebook", "spiral notebook"],
+    "response": "A notebook is a book of blank or ruled pages used for writing notes, sketches, or journaling. Types include spiral notebooks, bound notebooks, and loose-leaf binders. Paper quality varies from basic to premium. Page rulings include lined, graph, and blank. Sizes range from pocket-sized to large. Notebooks are essential for students, professionals, and anyone who writes by hand. They're portable and convenient for capturing ideas. Some notebooks have special features like perforated pages, dividers, or waterproof covers. Good notebooks have durable covers and paper that doesn't bleed through."
+  },
+  "paper": {
+    "keywords": ["paper", "writing paper", "printer paper"],
+    "response": "Paper is a thin material made from wood pulp or other fibers, used for writing, printing, and packaging. It comes in various weights (thicknesses) and sizes. Standard printer paper is 8.5x11 inches. Paper types include copy paper, cardstock, and construction paper. Paper can be coated for printing quality or uncoated for writing. Recycling paper reduces environmental impact. Paper has been used for thousands of years, evolving from ancient papyrus to modern manufactured paper. Quality paper is smooth, durable, and suitable for its intended use. Paper is essential for communication, education, and record-keeping."
+  },
+  "envelope": {
+    "keywords": ["envelope", "mail envelope", "letter envelope"],
+    "response": "An envelope is a flat paper container with a sealable flap, used for mailing letters and documents. It protects contents during transit. Envelopes come in various sizes to fit different paper sizes. Standard business envelopes are #10 size. Window envelopes have transparent panels showing addresses. Security envelopes have patterns to hide contents. Envelopes are made from paper or tyvek for durability. They can be plain or decorated. Proper addressing ensures delivery. Envelopes are essential for postal communication. Modern alternatives include digital mail, but physical envelopes remain important for formal correspondence."
+  },
+  "stamp": {
+    "keywords": ["stamp", "postage stamp", "mail stamp"],
+    "response": "A postage stamp is a small adhesive label indicating that postage has been paid for mail. It's affixed to envelopes before mailing. Stamps feature various designs including historical figures, nature scenes, and cultural symbols. Collecting stamps (philately) is a popular hobby. Stamp values vary by denomination and rarity. Modern stamps are self-adhesive, while older ones required licking. Stamps are issued by postal services worldwide. They're essential for traditional mail service. Digital postage is becoming available, but physical stamps remain widely used. Stamps are both functional and collectible, often featuring beautiful artwork."
+  },
+  "calendar": {
+    "keywords": ["calendar", "wall calendar", "desk calendar"],
+    "response": "A calendar is a system of organizing days for social, religious, commercial, or administrative purposes. It shows dates, days of the week, and often months. Types include wall calendars, desk calendars, and digital calendars. Wall calendars display an entire month with images. Desk calendars show one day at a time. Digital calendars on phones and computers offer reminders and scheduling. Calendars help track appointments, events, and deadlines. They're essential for time management and organization. The Gregorian calendar is the most widely used internationally. Good calendars have clear layouts and useful information."
+  },
+  "clock_alarm": {
+    "keywords": ["alarm clock", "alarm", "wake up"],
+    "response": "An alarm clock is a clock designed to sound an alarm at a specified time, typically used to wake people up. Traditional alarm clocks use bells or buzzers. Modern digital alarm clocks have displays and various alarm sounds. Some use radio or nature sounds. Smartphone apps have largely replaced dedicated alarm clocks. Features include snooze buttons, multiple alarms, and gradual volume increase. Alarm clocks are essential for maintaining schedules and waking up for work or school. Proper use involves setting alarms realistically and placing the clock across the room to prevent snoozing."
+  },
+  "watch": {
+    "keywords": ["watch", "wrist watch", "timepiece"],
+    "response": "A watch is a small timepiece worn on the wrist or carried in a pocket. Wristwatches are the most common type. They can be analog with hands or digital with numbers. Traditional watches are mechanical or quartz. Smartwatches connect to smartphones for notifications and apps. Watches can be fashion accessories or functional tools. Features may include date display, stopwatch, and water resistance. Quality watches are durable and accurate. Watches have evolved from pocket watches to modern smart devices. They're both practical timekeepers and style statements. A good watch balances functionality with personal style."
+  },
+  "glasses": {
+    "keywords": ["glasses", "eyeglasses", "spectacles"],
+    "response": "Glasses are optical devices worn on the face to correct vision or protect eyes. Prescription glasses have lenses that correct nearsightedness, farsightedness, or astigmatism. Reading glasses help with close-up work. Sunglasses protect eyes from UV rays. Safety glasses protect against debris. Glasses consist of frames and lenses. Frames come in various materials and styles. Lens materials include glass, plastic, and polycarbonate. Proper prescription ensures clear vision. Glasses should be cleaned regularly with appropriate solutions. They're essential for millions of people with vision needs and have greatly improved quality of life."
+  },
+  "sunglasses": {
+    "keywords": ["sunglasses", "sun glasses", "shades"],
+    "response": "Sunglasses are eyewear designed to protect eyes from bright sunlight and UV rays. They reduce glare and eye strain. Sunglasses come in various styles including aviator, wayfarer, and sport designs. Lens tints range from light to dark. Polarized lenses reduce glare from reflective surfaces. UV protection is essential for eye health. Some sunglasses are prescription for vision correction. Quality sunglasses provide 100% UV protection. They're both functional and fashionable accessories. Proper storage in cases prevents scratches. Sunglasses are essential for eye protection in bright conditions and can prevent long-term eye damage."
+  },
+  "headphones": {
+    "keywords": ["headphones", "earphones", "audio headphones"],
+    "response": "Headphones are audio devices worn over or in the ears to listen to audio privately. Over-ear headphones have earcups that cover the ears. In-ear headphones (earbuds) fit inside the ear canal. Wireless headphones use Bluetooth for cord-free listening. Noise-canceling headphones reduce ambient noise. Headphones are used with phones, computers, and music players. Quality headphones provide good sound quality and comfort. They're essential for private listening, gaming, and professional audio work. Proper care includes cleaning and storing properly. Modern headphones offer advanced features like touch controls and voice assistants."
+  },
+  "speaker": {
+    "keywords": ["speaker", "audio speaker", "sound system"],
+    "response": "A speaker is an electroacoustic transducer that converts electrical signals into sound. They're essential for audio playback from phones, computers, and music systems. Types include bookshelf speakers, floor-standing speakers, and portable speakers. Bluetooth speakers connect wirelessly. Smart speakers have voice assistants. Sound quality depends on speaker size, design, and components. Speakers can be part of surround sound systems. Proper placement optimizes sound quality. Speakers are essential for music, movies, and gaming. Quality speakers provide clear, balanced sound across different frequencies."
+  },
+  "microphone": {
+    "keywords": ["microphone", "mic", "audio microphone"],
+    "response": "A microphone is a device that converts sound into electrical signals. They're used for recording, communication, and live sound. Types include dynamic microphones for live sound, condenser microphones for recording, and USB microphones for computers. Microphones pick up sound from different patterns - cardioid for front pickup, omnidirectional for all-around. Quality microphones capture clear, accurate sound. They're essential for podcasting, music production, video calls, and public speaking. Proper technique involves maintaining consistent distance. Microphones have evolved from early carbon mics to modern sophisticated designs."
+  },
+  "camera": {
+    "keywords": ["camera", "digital camera", "photography"],
+    "response": "A camera is a device that captures images and videos. Digital cameras use electronic sensors instead of film. Types include DSLR cameras for professionals, mirrorless cameras, and point-and-shoot cameras for casual use. Smartphone cameras have become increasingly sophisticated. Key features include megapixels, zoom, and low-light performance. Cameras have various shooting modes and settings. Memory cards store photos. Quality cameras produce sharp, detailed images. They're essential for capturing memories, professional photography, and content creation. Modern cameras offer advanced features like image stabilization and 4K video recording."
+  },
+  "bicycle": {
+    "keywords": ["bicycle", "bike", "cycling"],
+    "response": "A bicycle is a human-powered vehicle with two wheels, pedals, and a frame. It's propelled by pedaling and steered with handlebars. Bicycles are used for transportation, recreation, exercise, and sport. Types include road bikes, mountain bikes, and hybrid bikes. Safety equipment includes helmets and lights. Bicycles are environmentally friendly and promote fitness. Regular maintenance includes checking tire pressure, brakes, and chain lubrication. Bicycles have been around since the 19th century and remain popular worldwide. They're an efficient, healthy mode of transportation for short to medium distances."
+  },
+  "car": {
+    "keywords": ["car", "automobile", "vehicle"],
+    "response": "A car is a wheeled motor vehicle used for transportation. Cars typically have four wheels, an engine, and seats for passengers. They're powered by gasoline, diesel, electricity, or hybrid systems. Types include sedans, SUVs, trucks, and sports cars. Modern cars have advanced features like GPS, safety systems, and entertainment. Cars require regular maintenance including oil changes and tire rotations. They're essential for personal transportation in most areas. Cars have revolutionized mobility since their invention in the late 19th century. Safety features have greatly improved, making modern cars much safer than earlier models."
+  },
+  "bus": {
+    "keywords": ["bus", "public bus", "city bus"],
+    "response": "A bus is a large road vehicle designed to carry multiple passengers. Buses are used for public transportation, school transport, and long-distance travel. City buses follow fixed routes with designated stops. School buses transport children to and from school. Intercity buses travel between cities. Buses are more energy-efficient per passenger than cars. They reduce traffic congestion and pollution. Bus systems are essential for public transportation in urban areas. Modern buses may be electric or hybrid for reduced emissions. Riding buses is often more economical than driving, especially in cities with good transit systems."
+  },
+  "train": {
+    "keywords": ["train", "railway", "train travel"],
+    "response": "A train is a series of connected vehicles that run on rails, powered by locomotives. Trains are used for passenger transportation and freight. Passenger trains include commuter trains, intercity trains, and high-speed rail. Freight trains transport goods across countries. Trains are efficient for moving large numbers of people or heavy cargo over long distances. Electric trains are environmentally friendly. Train travel can be more relaxing than driving. Railway systems are essential infrastructure in many countries. High-speed trains can compete with air travel for medium distances. Trains have been crucial to industrialization and economic development."
+  },
+  "airplane": {
+    "keywords": ["airplane", "aircraft", "flying", "plane"],
+    "response": "An airplane is a powered flying vehicle with fixed wings. Airplanes revolutionized long-distance travel, making it possible to cross continents in hours. Types include commercial airliners, private planes, and cargo planes. Commercial airplanes carry hundreds of passengers. Airplanes are powered by jet engines or propellers. They require airports with runways for takeoff and landing. Air travel is the fastest way to travel long distances. Safety regulations and air traffic control ensure safe operations. Airplanes have transformed global business, tourism, and connectivity since the early 20th century. Modern aviation is highly regulated for safety."
+  },
+  "boat": {
+    "keywords": ["boat", "ship", "watercraft"],
+    "response": "A boat is a watercraft of varying size used for transportation, fishing, or recreation. Small boats include rowboats, canoes, and motorboats. Larger boats are called ships. Boats can be powered by engines, sails, or human power. They're used on lakes, rivers, and oceans. Recreational boating includes fishing, water skiing, and cruising. Safety equipment includes life jackets and communication devices. Boats require registration and often licenses. They're essential for marine transportation and commerce. Boats have been used for thousands of years, evolving from simple rafts to sophisticated vessels. Proper maintenance ensures safety and performance."
+  },
+  "rocket": {
+    "keywords": ["rocket", "space rocket", "spacecraft"],
+    "response": "A rocket is a vehicle that obtains thrust from a rocket engine. Rockets are used for space exploration, launching satellites, and military applications. They work by expelling high-speed exhaust in the opposite direction of travel. Rockets carry their own propellant, allowing them to operate in space. Space rockets have multiple stages that separate during flight. Rockets have enabled human spaceflight, moon landings, and exploration of other planets. Modern rockets include reusable designs like SpaceX's Falcon 9. Rockets represent some of humanity's most advanced engineering achievements and continue to push the boundaries of space exploration."
+  },
+  "satellite": {
+    "keywords": ["satellite", "space satellite", "orbiting satellite"],
+    "response": "A satellite is an object that orbits around a planet or star. Artificial satellites are launched into Earth's orbit for communication, weather monitoring, navigation, and scientific research. Communication satellites enable global telecommunications and internet. Weather satellites track storms and climate. Navigation satellites like GPS enable precise positioning. Scientific satellites study space and Earth. Satellites are launched by rockets and remain in orbit due to gravitational balance. They're essential for modern technology and daily life. Satellites have revolutionized communication, weather forecasting, and navigation since the mid-20th century."
+  },
+  "robot": {
+    "keywords": ["robot", "robotics", "robots"],
+    "response": "A robot is a machine capable of carrying out complex actions automatically. Robots are used in manufacturing, healthcare, exploration, and everyday life. Industrial robots perform repetitive tasks in factories. Medical robots assist in surgery. Service robots vacuum floors or deliver food. Robots use sensors, computers, and actuators to function. Some robots are autonomous, while others are remotely controlled. Robotics combines engineering, computer science, and AI. Robots are increasingly common in homes and workplaces. They improve efficiency and safety in many applications. Future robots may become more intelligent and capable of complex decision-making."
+  },
+  "artificial_intelligence": {
+    "keywords": ["artificial intelligence", "ai", "machine learning"],
+    "response": "Artificial Intelligence (AI) is the simulation of human intelligence in machines. AI enables computers to learn, reason, and make decisions. Types include narrow AI for specific tasks and general AI for broad capabilities. Machine learning allows systems to improve from experience. AI is used in voice assistants, image recognition, recommendation systems, and autonomous vehicles. AI raises important ethical questions about privacy, bias, and job displacement. Current AI excels at specific tasks but lacks general intelligence. AI is transforming many industries including healthcare, finance, and transportation. The field continues to advance rapidly with new breakthroughs in neural networks and deep learning."
   },
   "default": {
     "keywords": [],

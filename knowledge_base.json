@@ -67,8 +67,216 @@
     "keywords": ["thank", "thanks", "appreciate"],
     "response": "You're welcome! I'm happy to help. Let me know if you have any other questions!"
   },
+  "english": {
+    "keywords": ["english", "english language", "speak english"],
+    "response": "English is a West Germanic language that originated in England. It's the most widely spoken language in the world and is the official language of many countries."
+  },
+  "spanish": {
+    "keywords": ["spanish", "español", "speak spanish"],
+    "response": "Spanish is a Romance language that originated in the Iberian Peninsula. It's the second most spoken native language in the world, with over 500 million speakers."
+  },
+  "french": {
+    "keywords": ["french", "français", "speak french"],
+    "response": "French is a Romance language spoken by about 300 million people worldwide. It's known as the language of diplomacy, culture, and romance."
+  },
+  "german": {
+    "keywords": ["german", "deutsch", "speak german"],
+    "response": "German is a West Germanic language spoken mainly in Central Europe. It's the most widely spoken native language in the European Union."
+  },
+  "chinese": {
+    "keywords": ["chinese", "mandarin", "cantonese", "speak chinese"],
+    "response": "Chinese is a group of language varieties that form the Sinitic branch of the Sino-Tibetan languages. Mandarin Chinese is the most spoken language in the world by native speakers."
+  },
+  "japanese": {
+    "keywords": ["japanese", "nihongo", "speak japanese"],
+    "response": "Japanese is an East Asian language spoken by about 128 million people, primarily in Japan. It uses a writing system combining three scripts: hiragana, katakana, and kanji."
+  },
+  "arabic": {
+    "keywords": ["arabic", "speak arabic", "arabic language"],
+    "response": "Arabic is a Semitic language spoken by over 400 million people across the Arab world. It's written from right to left and is the language of the Quran."
+  },
+  "russian": {
+    "keywords": ["russian", "speak russian", "russian language"],
+    "response": "Russian is an East Slavic language spoken by about 258 million people worldwide. It uses the Cyrillic alphabet and is one of the six official languages of the United Nations."
+  },
+  "italian": {
+    "keywords": ["italian", "italiano", "speak italian"],
+    "response": "Italian is a Romance language spoken by about 85 million people. It's known for its musicality and is the language of art, music, and cuisine."
+  },
+  "portuguese": {
+    "keywords": ["portuguese", "speak portuguese", "portuguese language"],
+    "response": "Portuguese is a Romance language spoken by about 260 million people worldwide. It's the official language of Portugal, Brazil, and several other countries."
+  },
+  "hindi": {
+    "keywords": ["hindi", "speak hindi", "hindi language"],
+    "response": "Hindi is an Indo-Aryan language spoken primarily in India. It's one of the official languages of India and is spoken by over 600 million people."
+  },
+  "addition": {
+    "keywords": ["addition", "adding", "plus", "sum"],
+    "response": "Addition is one of the four basic operations of arithmetic. It combines two or more numbers to get a total or sum. For example, 2 + 3 = 5."
+  },
+  "subtraction": {
+    "keywords": ["subtraction", "subtracting", "minus", "difference"],
+    "response": "Subtraction is taking one number away from another. It's the opposite of addition. For example, 5 - 3 = 2."
+  },
+  "multiplication": {
+    "keywords": ["multiplication", "multiplying", "times", "product"],
+    "response": "Multiplication is repeated addition of the same number. For example, 3 × 4 means adding 3 four times: 3 + 3 + 3 + 3 = 12."
+  },
+  "division": {
+    "keywords": ["division", "dividing", "divided by", "quotient"],
+    "response": "Division is splitting a number into equal parts. It's the opposite of multiplication. For example, 12 ÷ 4 = 3, meaning 12 split into 4 equal parts gives 3."
+  },
+  "algebra": {
+    "keywords": ["algebra", "algebraic", "variables", "equations"],
+    "response": "Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. It's used to solve equations and find unknown values."
+  },
+  "geometry": {
+    "keywords": ["geometry", "shapes", "angles", "triangles", "circles"],
+    "response": "Geometry is the study of shapes, sizes, positions, and dimensions. It deals with points, lines, angles, surfaces, and solids."
+  },
+  "fractions": {
+    "keywords": ["fractions", "fraction", "numerator", "denominator"],
+    "response": "A fraction represents a part of a whole. It has a numerator (top number) and denominator (bottom number). For example, 1/2 means one half of something."
+  },
+  "decimals": {
+    "keywords": ["decimals", "decimal", "decimal point"],
+    "response": "Decimals are a way to write fractions with denominators of 10, 100, 1000, etc. They use a decimal point. For example, 0.5 is the same as 1/2."
+  },
+  "percentages": {
+    "keywords": ["percentages", "percentage", "percent", "%"],
+    "response": "A percentage is a number expressed as a fraction of 100. The symbol '%' means 'per hundred'. For example, 50% means 50 out of 100, or half."
+  },
+  "calculus": {
+    "keywords": ["calculus", "derivative", "integral", "limits"],
+    "response": "Calculus is the mathematical study of continuous change. It has two main branches: differential calculus (rates of change) and integral calculus (accumulation of quantities)."
+  },
+  "statistics": {
+    "keywords": ["statistics", "stats", "data analysis", "probability"],
+    "response": "Statistics is the study of collecting, analyzing, and interpreting data. It helps us understand patterns and make predictions based on information."
+  },
+  "animals": {
+    "keywords": ["animals", "animal", "wildlife", "creatures"],
+    "response": "Animals are multicellular organisms that consume organic material, breathe oxygen, and can move. There are millions of animal species, from tiny insects to huge whales!"
+  },
+  "colors": {
+    "keywords": ["colors", "color", "colour", "rainbow"],
+    "response": "Colors are how our eyes perceive different wavelengths of light. The primary colors are red, blue, and yellow. Mixing them creates secondary colors like green, orange, and purple."
+  },
+  "shapes": {
+    "keywords": ["shapes", "shape", "geometric shapes"],
+    "response": "Shapes are forms that objects can take. Basic shapes include circles, squares, triangles, rectangles, and ovals. Everything around us has a shape!"
+  },
+  "numbers": {
+    "keywords": ["numbers", "number", "counting", "digits"],
+    "response": "Numbers are symbols used to count, measure, and label. We use the decimal system with digits 0-9. Numbers help us understand the world around us."
+  },
+  "alphabet": {
+    "keywords": ["alphabet", "letters", "abc", "a b c"],
+    "response": "The alphabet is a set of letters used to write a language. The English alphabet has 26 letters from A to Z. Learning the alphabet is the first step to reading and writing!"
+  },
+  "music": {
+    "keywords": ["music", "songs", "singing", "instruments"],
+    "response": "Music is an art form that uses sound and rhythm. It can make us happy, sad, excited, or calm. People make music with voices, instruments, or computers."
+  },
+  "art": {
+    "keywords": ["art", "drawing", "painting", "creative"],
+    "response": "Art is a way to express creativity and imagination. It includes painting, drawing, sculpture, and many other forms. Art can be beautiful, meaningful, or just fun!"
+  },
+  "sports": {
+    "keywords": ["sports", "sport", "games", "exercise", "soccer", "basketball"],
+    "response": "Sports are physical activities that involve competition and skill. Popular sports include soccer, basketball, tennis, swimming, and running. Sports keep us healthy and teach teamwork!"
+  },
+  "games": {
+    "keywords": ["games", "game", "playing", "fun", "board games"],
+    "response": "Games are activities done for enjoyment and fun. They can be board games, video games, card games, or outdoor games. Games help us learn and socialize!"
+  },
+  "holidays": {
+    "keywords": ["holidays", "holiday", "celebration", "festival"],
+    "response": "Holidays are special days for celebration, rest, or remembering important events. Examples include Christmas, Halloween, Easter, and national holidays like Independence Day."
+  },
+  "traditions": {
+    "keywords": ["traditions", "tradition", "customs", "culture"],
+    "response": "Traditions are beliefs and behaviors passed down through generations. They include how we celebrate holidays, what we eat, and how we greet each other. Traditions connect us to our heritage."
+  },
+  "food": {
+    "keywords": ["food", "eating", "cooking", "meals", "cuisine"],
+    "response": "Food is what we eat to stay healthy and energized. Different cultures have different foods - like pizza from Italy, sushi from Japan, and tacos from Mexico. Food brings people together!"
+  },
+  "countries": {
+    "keywords": ["countries", "country", "nations", "world"],
+    "response": "Countries are distinct regions with their own governments, cultures, and languages. There are about 195 countries in the world, each with unique traditions and landscapes."
+  },
+  "continents": {
+    "keywords": ["continents", "continent", "seven continents"],
+    "response": "Continents are large landmasses on Earth. There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  "oceans": {
+    "keywords": ["oceans", "ocean", "sea", "water"],
+    "response": "Oceans are large bodies of saltwater that cover most of Earth's surface. There are five oceans: Pacific, Atlantic, Indian, Arctic, and Southern. They're home to amazing marine life!"
+  },
+  "space": {
+    "keywords": ["space", "outer space", "universe", "stars"],
+    "response": "Space is the vast expanse beyond Earth's atmosphere. It contains stars, planets, galaxies, and more. Humans explore space using rockets, telescopes, and satellites."
+  },
+  "planets": {
+    "keywords": ["planets", "planet", "solar system", "earth", "mars"],
+    "response": "Planets are large celestial bodies that orbit stars. Our solar system has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  "weather": {
+    "keywords": ["weather", "rain", "sun", "wind", "snow"],
+    "response": "Weather is the state of the atmosphere at a place and time. It includes temperature, humidity, wind, and precipitation. Weather changes daily and affects what we wear and do."
+  },
+  "seasons": {
+    "keywords": ["seasons", "season", "winter", "summer", "spring", "fall"],
+    "response": "Seasons are divisions of the year based on weather patterns. There are four seasons: spring (growth), summer (heat), autumn (harvest), and winter (cold)."
+  },
+  "plants": {
+    "keywords": ["plants", "plant", "flowers", "trees", "garden"],
+    "response": "Plants are living organisms that make their own food using sunlight. They include trees, flowers, grass, and vegetables. Plants provide oxygen, food, and beauty to our world."
+  },
+  "insects": {
+    "keywords": ["insects", "insect", "bugs", "butterflies", "bees"],
+    "response": "Insects are small animals with six legs and three body parts. They include butterflies, bees, ants, and beetles. Insects are important for pollination and are food for other animals."
+  },
+  "birds": {
+    "keywords": ["birds", "bird", "flying", "feathers", "eagles"],
+    "response": "Birds are warm-blooded animals with feathers, wings, and beaks. Most birds can fly. They lay eggs and can be found everywhere from cities to forests."
+  },
+  "fish": {
+    "keywords": ["fish", "fishes", "swimming", "aquatic", "sharks"],
+    "response": "Fish are cold-blooded animals that live in water and have gills to breathe. They come in many sizes and colors, from tiny goldfish to huge sharks!"
+  },
+  "mammals": {
+    "keywords": ["mammals", "mammal", "dogs", "cats", "whales"],
+    "response": "Mammals are warm-blooded animals that have hair or fur and feed their babies milk. Humans, dogs, cats, whales, and elephants are all mammals."
+  },
+  "reptiles": {
+    "keywords": ["reptiles", "reptile", "snakes", "lizards", "turtles"],
+    "response": "Reptiles are cold-blooded animals with scales or shells. They include snakes, lizards, turtles, and crocodiles. Most reptiles lay eggs."
+  },
+  "amphibians": {
+    "keywords": ["amphibians", "amphibian", "frogs", "toads", "salamanders"],
+    "response": "Amphibians are cold-blooded animals that live both in water and on land. They include frogs, toads, and salamanders. They usually start life in water as tadpoles."
+  },
+  "dinosaurs": {
+    "keywords": ["dinosaurs", "dinosaur", "prehistoric", "extinct"],
+    "response": "Dinosaurs were reptiles that lived millions of years ago. They came in all sizes - from small chicken-sized ones to huge giants like T-Rex. They went extinct about 65 million years ago."
+  },
+  "fairy_tales": {
+    "keywords": ["fairy tales", "fairy tale", "stories", "cinderella", "princess"],
+    "response": "Fairy tales are magical stories with fantasy characters like princesses, dragons, and fairies. Classic examples include Cinderella, Snow White, and Little Red Riding Hood."
+  },
+  "cartoons": {
+    "keywords": ["cartoons", "cartoon", "animation", "animated"],
+    "response": "Cartoons are animated drawings that tell stories. They can be funny, adventurous, or educational. Popular cartoons include Mickey Mouse, SpongeBob, and many animated movies."
+  },
+  "superheroes": {
+    "keywords": ["superheroes", "superhero", "super heroes", "comic books"],
+    "response": "Superheroes are fictional characters with extraordinary powers. They use their abilities to help people and fight villains. Famous superheroes include Superman, Spider-Man, Wonder Woman, and Batman."
+  },
   "default": {
     "keywords": [],
-    "response": "I'm not sure I understand. Could you please rephrase your question? I can help with topics like programming, web development, and general technology questions."
+    "response": "I'm not sure I understand. Could you please rephrase your question? I can help with topics like programming, languages, math, animals, culture, and many more!"
   }
 }

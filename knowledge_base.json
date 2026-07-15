@@ -275,6 +275,374 @@
     "keywords": ["superheroes", "superhero", "super heroes", "comic books"],
     "response": "Superheroes are fictional characters with extraordinary powers. They use their abilities to help people and fight villains. Famous superheroes include Superman, Spider-Man, Wonder Woman, and Batman."
   },
+  "red": {
+    "keywords": ["red color", "color red"],
+    "response": "Red is a bright, warm color. It's the color of apples, fire trucks, and hearts!"
+  },
+  "blue": {
+    "keywords": ["blue color", "color blue"],
+    "response": "Blue is a cool color. It's the color of the sky, ocean, and blueberries!"
+  },
+  "yellow": {
+    "keywords": ["yellow color", "color yellow"],
+    "response": "Yellow is a bright, sunny color. It's the color of the sun, bananas, and lemons!"
+  },
+  "green": {
+    "keywords": ["green color", "color green"],
+    "response": "Green is the color of nature. It's the color of grass, leaves, and many vegetables!"
+  },
+  "orange": {
+    "keywords": ["orange color", "color orange"],
+    "response": "Orange is a warm, energetic color. It's the color of oranges, carrots, and pumpkins!"
+  },
+  "purple": {
+    "keywords": ["purple color", "color purple"],
+    "response": "Purple is a royal color. It's the color of grapes, lavender flowers, and eggplants!"
+  },
+  "pink": {
+    "keywords": ["pink color", "color pink"],
+    "response": "Pink is a soft, gentle color. It's the color of flowers like roses and carnations!"
+  },
+  "black": {
+    "keywords": ["black color", "color black"],
+    "response": "Black is a dark color. It's the color of night, coal, and many animals like panthers!"
+  },
+  "white": {
+    "keywords": ["white color", "color white"],
+    "response": "White is the color of light. It's the color of snow, clouds, and milk!"
+  },
+  "brown": {
+    "keywords": ["brown color", "color brown"],
+    "response": "Brown is an earthy color. It's the color of soil, tree bark, and chocolate!"
+  },
+  "mix_colors": {
+    "keywords": ["mix colors", "color mixing", "mix red and blue"],
+    "response": "When you mix colors, you get new colors! Red + Blue = Purple, Blue + Yellow = Green, Red + Yellow = Orange!"
+  },
+  "circle": {
+    "keywords": ["circle shape", "what is a circle"],
+    "response": "A circle is a round shape with no corners or edges. It's like a wheel, a coin, or a pizza!"
+  },
+  "square": {
+    "keywords": ["square shape", "what is a square"],
+    "response": "A square has 4 equal sides and 4 corners. It's like a box, a window, or a piece of paper!"
+  },
+  "triangle": {
+    "keywords": ["triangle shape", "what is a triangle"],
+    "response": "A triangle has 3 sides and 3 corners. It's like a slice of pizza, a pyramid, or a traffic sign!"
+  },
+  "rectangle": {
+    "keywords": ["rectangle shape", "what is a rectangle"],
+    "response": "A rectangle has 4 sides with opposite sides equal. It's like a door, a book, or a phone screen!"
+  },
+  "star": {
+    "keywords": ["star shape", "what is a star"],
+    "response": "A star has points that stick out. Stars shine in the sky at night and we draw them with 5 points!"
+  },
+  "heart": {
+    "keywords": ["heart shape", "what is a heart"],
+    "response": "A heart shape looks like a Valentine's heart. It represents love and kindness!"
+  },
+  "count_10": {
+    "keywords": ["count to 10", "counting to ten"],
+    "response": "Let's count to 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10! Great job!"
+  },
+  "count_20": {
+    "keywords": ["count to 20", "counting to twenty"],
+    "response": "Let's count to 20: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20! Awesome!"
+  },
+  "count_100": {
+    "keywords": ["count to 100", "counting to one hundred"],
+    "response": "Counting to 100 takes practice! We count by tens: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100!"
+  },
+  "even_numbers": {
+    "keywords": ["even numbers", "what are even numbers"],
+    "response": "Even numbers are numbers you can divide by 2: 2, 4, 6, 8, 10, 12, and so on. They end with 0, 2, 4, 6, or 8!"
+  },
+  "odd_numbers": {
+    "keywords": ["odd numbers", "what are odd numbers"],
+    "response": "Odd numbers are numbers you can't divide evenly by 2: 1, 3, 5, 7, 9, 11, and so on. They end with 1, 3, 5, 7, or 9!"
+  },
+  "big_small": {
+    "keywords": ["big and small", "bigger smaller"],
+    "response": "Big means large in size, like an elephant! Small means tiny, like an ant. We compare sizes all the time!"
+  },
+  "heavy_light": {
+    "keywords": ["heavy and light", "heavier lighter"],
+    "response": "Heavy things are hard to lift, like a rock. Light things are easy to lift, like a feather!"
+  },
+  "hot_cold": {
+    "keywords": ["hot and cold", "hotter colder"],
+    "response": "Hot means high temperature, like soup or the sun. Cold means low temperature, like ice or snow!"
+  },
+  "fast_slow": {
+    "keywords": ["fast and slow", "faster slower"],
+    "response": "Fast means moving quickly, like a cheetah! Slow means moving leisurely, like a turtle!"
+  },
+  "day_night": {
+    "keywords": ["day and night", "daytime nighttime"],
+    "response": "Day is when the sun is up and it's bright. Night is when the sun is down and it's dark, with stars in the sky!"
+  },
+  "sun": {
+    "keywords": ["the sun", "what is the sun"],
+    "response": "The sun is a big star that gives us light and warmth. It rises in the morning and sets in the evening!"
+  },
+  "moon": {
+    "keywords": ["the moon", "what is the moon"],
+    "response": "The moon is Earth's natural satellite. It changes shape and shines at night. People have walked on the moon!"
+  },
+  "stars": {
+    "keywords": ["stars in sky", "twinkling stars"],
+    "response": "Stars are giant balls of hot gas far away in space. They twinkle at night and the sun is our closest star!"
+  },
+  "clouds": {
+    "keywords": ["clouds", "what are clouds"],
+    "response": "Clouds are made of water vapor in the sky. They can be white and fluffy or gray and rainy. They bring rain!"
+  },
+  "rain": {
+    "keywords": ["rain", "why does it rain"],
+    "response": "Rain is water that falls from clouds. It helps plants grow and fills our rivers. We need rain for life on Earth!"
+  },
+  "snow": {
+    "keywords": ["snow", "what is snow"],
+    "response": "Snow is frozen water that falls from clouds when it's very cold. It's white and fluffy, great for building snowmen!"
+  },
+  "wind": {
+    "keywords": ["wind", "what is wind"],
+    "response": "Wind is moving air. We can feel it but can't see it. Wind makes leaves dance and helps fly kites!"
+  },
+  "thunder": {
+    "keywords": ["thunder", "what is thunder"],
+    "response": "Thunder is the loud sound we hear during a storm. It's caused by lightning heating the air very quickly!"
+  },
+  "lightning": {
+    "keywords": ["lightning", "what is lightning"],
+    "response": "Lightning is a bright flash of electricity in the sky during storms. It's very powerful and dangerous!"
+  },
+  "rainbow": {
+    "keywords": ["rainbow", "how are rainbows formed"],
+    "response": "A rainbow appears when sunlight shines through raindrops. It has 7 colors: red, orange, yellow, green, blue, indigo, and violet!"
+  },
+  "gravity": {
+    "keywords": ["gravity", "what is gravity"],
+    "response": "Gravity is a force that pulls things toward Earth. That's why we don't float away and why things fall down!"
+  },
+  "magnet": {
+    "keywords": ["magnet", "what is a magnet"],
+    "response": "A magnet is a special object that attracts certain metals like iron. It has a north pole and a south pole!"
+  },
+  "electricity": {
+    "keywords": ["electricity", "what is electricity"],
+    "response": "Electricity is a form of energy that powers our lights, computers, and appliances. It flows through wires!"
+  },
+  "money": {
+    "keywords": ["money", "what is money"],
+    "response": "Money is what we use to buy things. It comes in coins and paper bills. We earn money by working!"
+  },
+  "coins": {
+    "keywords": ["coins", "penny nickel dime quarter"],
+    "response": "Coins are round money. A penny is 1 cent, a nickel is 5 cents, a dime is 10 cents, and a quarter is 25 cents!"
+  },
+  "dollar": {
+    "keywords": ["dollar", "one dollar"],
+    "response": "A dollar is 100 cents. It's a green paper bill with George Washington on it. Four quarters make one dollar!"
+  },
+  "saving": {
+    "keywords": ["saving money", "how to save"],
+    "response": "Saving money means keeping some money instead of spending it all. It's smart to save for things you really want!"
+  },
+  "time": {
+    "keywords": ["time", "what is time", "clock"],
+    "response": "Time helps us know when to do things. We use clocks to tell time. There are 24 hours in a day!"
+  },
+  "hours": {
+    "keywords": ["hours", "how many hours in a day"],
+    "response": "There are 24 hours in a day. That's 12 hours in the morning and 12 hours in the evening!"
+  },
+  "minutes": {
+    "keywords": ["minutes", "how many minutes in an hour"],
+    "response": "There are 60 minutes in one hour. Each minute has 60 seconds!"
+  },
+  "seconds": {
+    "keywords": ["seconds", "how many seconds in a minute"],
+    "response": "There are 60 seconds in one minute. Count to 60 and you've counted one minute!"
+  },
+  "calendar": {
+    "keywords": ["calendar", "months of the year"],
+    "response": "A calendar shows the days, weeks, and months. There are 12 months in a year: January, February, March, April, May, June, July, August, September, October, November, December!"
+  },
+  "days_week": {
+    "keywords": ["days of the week", "week days"],
+    "response": "There are 7 days in a week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday!"
+  },
+  "year": {
+    "keywords": ["year", "how many days in a year"],
+    "response": "There are 365 days in a regular year. Every 4 years is a leap year with 366 days (February has 29 days)!"
+  },
+  "morning": {
+    "keywords": ["morning", "what is morning"],
+    "response": "Morning is the start of the day when the sun rises. It's time to wake up, eat breakfast, and get ready for the day!"
+  },
+  "afternoon": {
+    "keywords": ["afternoon", "what is afternoon"],
+    "response": "Afternoon is the middle of the day, after morning and before evening. It's often the warmest part of the day!"
+  },
+  "evening": {
+    "keywords": ["evening", "what is evening"],
+    "response": "Evening is the end of the day when the sun sets. It's time for dinner, relaxation, and getting ready for bed!"
+  },
+  "breakfast": {
+    "keywords": ["breakfast", "what is breakfast"],
+    "response": "Breakfast is the first meal of the day, eaten in the morning. It gives us energy to start the day!"
+  },
+  "lunch": {
+    "keywords": ["lunch", "what is lunch"],
+    "response": "Lunch is the meal eaten in the middle of the day, around noon. It gives us energy for the afternoon!"
+  },
+  "dinner": {
+    "keywords": ["dinner", "what is dinner"],
+    "response": "Dinner is the main meal eaten in the evening. It's often when families eat together and talk about their day!"
+  },
+  "healthy_food": {
+    "keywords": ["healthy food", "what is healthy"],
+    "response": "Healthy food includes fruits, vegetables, whole grains, and proteins. It helps our bodies grow strong and stay healthy!"
+  },
+  "fruits": {
+    "keywords": ["fruits", "examples of fruits"],
+    "response": "Fruits are sweet and healthy! Examples include apples, bananas, oranges, grapes, strawberries, and watermelons!"
+  },
+  "vegetables": {
+    "keywords": ["vegetables", "examples of vegetables"],
+    "response": "Vegetables are very healthy! Examples include carrots, broccoli, spinach, peas, corn, and tomatoes!"
+  },
+  "water": {
+    "keywords": ["water", "why drink water"],
+    "response": "Water is essential for life! We need to drink water every day to stay hydrated and healthy. It has no calories!"
+  },
+  "exercise": {
+    "keywords": ["exercise", "why exercise"],
+    "response": "Exercise is physical activity that keeps our bodies strong and healthy. It can be running, jumping, swimming, or playing sports!"
+  },
+  "sleep": {
+    "keywords": ["sleep", "why do we sleep"],
+    "response": "Sleep is when our bodies rest and repair. Kids need about 9-11 hours of sleep each night to grow and learn well!"
+  },
+  "teeth": {
+    "keywords": ["teeth", "brushing teeth"],
+    "response": "We should brush our teeth twice a day to keep them clean and healthy. This prevents cavities and keeps our smiles bright!"
+  },
+  "hands": {
+    "keywords": ["washing hands", "clean hands"],
+    "response": "We should wash our hands with soap before eating and after using the bathroom. This keeps us from getting sick!"
+  },
+  "safety": {
+    "keywords": ["safety", "being safe"],
+    "response": "Safety means protecting ourselves from danger. We should always be careful, follow rules, and ask for help when we need it!"
+  },
+  "stranger": {
+    "keywords": ["stranger danger", "talking to strangers"],
+    "response": "A stranger is someone we don't know. We should never go anywhere with a stranger or take things from them. Always stay safe!"
+  },
+  "friends": {
+    "keywords": ["friends", "being a good friend"],
+    "response": "Friends are people we like and trust. Good friends are kind, share, help each other, and have fun together!"
+  },
+  "sharing": {
+    "keywords": ["sharing", "why share"],
+    "response": "Sharing means letting others use or have something we have. It's kind and makes everyone happy. Sharing is caring!"
+  },
+  "manners": {
+    "keywords": ["manners", "good manners"],
+    "response": "Good manners are being polite. We say please, thank you, excuse me, and sorry. It shows respect and kindness!"
+  },
+  "please": {
+    "keywords": ["say please", "magic word"],
+    "response": "Please is a magic word! We say it when we ask for something. It shows we are polite and respectful!"
+  },
+  "thank_you": {
+    "keywords": ["say thank you", "gratitude"],
+    "response": "Thank you is another magic word! We say it when someone helps us or gives us something. It shows appreciation!"
+  },
+  "sorry": {
+    "keywords": ["say sorry", "apologize"],
+    "response": "Sorry is important when we make mistakes. Saying sorry shows we care and want to make things right!"
+  },
+  "excuse_me": {
+    "keywords": ["excuse me", "polite phrase"],
+    "response": "Excuse me is a polite phrase. We say it when we need to get someone's attention or when we accidentally bump into someone!"
+  },
+  "emotions": {
+    "keywords": ["emotions", "feelings"],
+    "response": "Emotions are how we feel. Common emotions include happy, sad, angry, scared, excited, and surprised. It's okay to feel all of them!"
+  },
+  "happy": {
+    "keywords": ["happy", "feeling happy"],
+    "response": "Happy is a good feeling when things go well. We smile and feel good inside. Being happy makes others happy too!"
+  },
+  "sad": {
+    "keywords": ["sad", "feeling sad"],
+    "response": "Sad is when we feel unhappy. It's okay to feel sad sometimes. Talking to someone helps us feel better!"
+  },
+  "angry": {
+    "keywords": ["angry", "feeling angry"],
+    "response": "Angry is when we feel mad. It's normal to feel angry, but we should express it calmly without hurting others!"
+  },
+  "scared": {
+    "keywords": ["scared", "feeling scared", "afraid"],
+    "response": "Scared is when we feel afraid. It's our body's way of protecting us. Being brave means facing our fears!"
+  },
+  "excited": {
+    "keywords": ["excited", "feeling excited"],
+    "response": "Excited is when we feel really happy about something coming up, like a birthday party or a trip!"
+  },
+  "love": {
+    "keywords": ["love", "what is love"],
+    "response": "Love is a strong feeling of caring for someone. We love our family, friends, and pets. Love makes the world better!"
+  },
+  "kindness": {
+    "keywords": ["kindness", "being kind"],
+    "response": "Kindness is being friendly, helpful, and considerate. Small acts of kindness can make someone's day much better!"
+  },
+  "respect": {
+    "keywords": ["respect", "being respectful"],
+    "response": "Respect means treating others the way you want to be treated. We respect our parents, teachers, friends, and ourselves!"
+  },
+  "honesty": {
+    "keywords": ["honesty", "being honest", "telling truth"],
+    "response": "Honesty means telling the truth and not lying. Being honest helps people trust us. It's always better to tell the truth!"
+  },
+  "responsibility": {
+    "keywords": ["responsibility", "being responsible"],
+    "response": "Responsibility means doing what we're supposed to do and taking care of our duties. It's an important part of growing up!"
+  },
+  "school": {
+    "keywords": ["school", "why go to school"],
+    "response": "School is where we go to learn new things. We learn reading, writing, math, science, and how to be good friends!"
+  },
+  "teacher": {
+    "keywords": ["teacher", "what does a teacher do"],
+    "response": "A teacher helps us learn at school. They teach us new things, answer our questions, and help us grow smarter!"
+  },
+  "homework": {
+    "keywords": ["homework", "why do homework"],
+    "response": "Homework is work we do at home to practice what we learned in school. It helps us remember and understand better!"
+  },
+  "reading": {
+    "keywords": ["reading", "why read"],
+    "response": "Reading is looking at words and understanding them. It opens up whole worlds of adventure and knowledge. Reading makes us smarter!"
+  },
+  "writing": {
+    "keywords": ["writing", "why write"],
+    "response": "Writing is putting our thoughts on paper. It helps us communicate, remember things, and share our ideas with others!"
+  },
+  "library": {
+    "keywords": ["library", "what is a library"],
+    "response": "A library is a place with many books we can borrow. It's quiet and perfect for reading and learning new things!"
+  },
+  "books": {
+    "keywords": ["books", "why are books important"],
+    "response": "Books contain stories, information, and knowledge. Reading books is like going on adventures without leaving your seat!"
+  },
   "default": {
     "keywords": [],
     "response": "I'm not sure I understand. Could you please rephrase your question? I can help with topics like programming, languages, math, animals, culture, and many more!"

@@ -1,0 +1,74 @@
+{
+  "greetings": {
+    "keywords": ["hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening"],
+    "response": "Hello! How can I help you today?"
+  },
+  "how_are_you": {
+    "keywords": ["how are you", "how's it going", "how do you do", "what's up"],
+    "response": "I'm doing great, thank you for asking! I'm here to help you with any questions."
+  },
+  "name": {
+    "keywords": ["what is your name", "who are you", "your name"],
+    "response": "I'm a chatbot created to help answer your questions. You can call me Assistant!"
+  },
+  "purpose": {
+    "keywords": ["what do you do", "what can you do", "your purpose", "help me with"],
+    "response": "I can help answer questions, provide information, and assist with various topics. Feel free to ask me anything!"
+  },
+  "python": {
+    "keywords": ["python", "python programming", "learn python"],
+    "response": "Python is a popular programming language known for its simplicity and readability. It's great for web development, data science, automation, and more. Would you like to learn more about Python?"
+  },
+  "flask": {
+    "keywords": ["flask", "flask framework", "what is flask"],
+    "response": "Flask is a lightweight Python web framework that makes it easy to build web applications. It's known for its simplicity and flexibility. Great for beginners!"
+  },
+  "html": {
+    "keywords": ["html", "html5", "hyper text markup language"],
+    "response": "HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure and content of web pages using elements and tags."
+  },
+  "javascript": {
+    "keywords": ["javascript", "js", "java script"],
+    "response": "JavaScript is a programming language that runs in web browsers. It's used to make web pages interactive and dynamic. It's essential for modern web development!"
+  },
+  "css": {
+    "keywords": ["css", "cascading style sheets", "styling"],
+    "response": "CSS (Cascading Style Sheets) is used to style and layout web pages. It controls colors, fonts, spacing, and overall visual appearance of HTML elements."
+  },
+  "api": {
+    "keywords": ["api", "application programming interface", "what is an api"],
+    "response": "An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other. It's like a messenger that takes requests and returns responses."
+  },
+  "json": {
+    "keywords": ["json", "javascript object notation"],
+    "response": "JSON (JavaScript Object Notation) is a lightweight data format that's easy for humans to read and write, and easy for machines to parse and generate. It's commonly used for data exchange between servers and web applications."
+  },
+  "database": {
+    "keywords": ["database", "db", "data storage"],
+    "response": "A database is an organized collection of data, stored and accessed electronically. Common types include SQL databases (like MySQL, PostgreSQL) and NoSQL databases (like MongoDB)."
+  },
+  "frontend": {
+    "keywords": ["frontend", "front-end", "client side"],
+    "response": "Frontend development refers to the part of web development that users see and interact with. It involves HTML, CSS, and JavaScript to create the user interface."
+  },
+  "backend": {
+    "keywords": ["backend", "back-end", "server side"],
+    "response": "Backend development refers to the server-side of web development. It involves handling databases, server logic, APIs, and the behind-the-scenes functionality that powers websites."
+  },
+  "web_development": {
+    "keywords": ["web development", "web dev", "website development"],
+    "response": "Web development is the work involved in developing a website for the Internet. It includes web design, web content development, client-side scripting, server-side scripting, and network security."
+  },
+  "bye": {
+    "keywords": ["bye", "goodbye", "see you", "farewell", "exit"],
+    "response": "Goodbye! Have a great day! Feel free to come back if you have more questions."
+  },
+  "thanks": {
+    "keywords": ["thank", "thanks", "appreciate"],
+    "response": "You're welcome! I'm happy to help. Let me know if you have any other questions!"
+  },
+  "default": {
+    "keywords": [],
+    "response": "I'm not sure I understand. Could you please rephrase your question? I can help with topics like programming, web development, and general technology questions."
+  }
+}
